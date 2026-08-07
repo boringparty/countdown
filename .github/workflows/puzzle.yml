@@ -2,10 +2,17 @@ name: Daily Puzzle Scraper
 
 on:
   schedule:
-    # 00:00 UTC corresponds to 4:00 PM PST every day
-    # (Use '0 23 * * *' if you want 4:00 PM PDT during Daylight Saving Time)
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      ep_num:
+        description: 'Episode Number (e.g., 9123). Leave blank for auto.'
+        required: false
+        default: ''
+      offset:
+        description: 'Days Offset (e.g., -1 for yesterday). Ignored if Episode Number is set.'
+        required: false
+        default: '0'
 
 permissions:
   contents: write
@@ -29,7 +36,11 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper script
-        run: python scripts/puzzle.py
+        run: |
+          python scripts/puzzle.py \
+            --ep "${{ inputs.ep_num }}" \
+            --offset "${{ inputs.offset || 0 }}" \
+            ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
       - name: Commit and push changes
         run: |
