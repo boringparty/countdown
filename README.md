@@ -5,6 +5,9 @@
 > domain.com/?target=0&numbers=&letters=FSROUEPCT or  
 > domain.com/?target=690&numbers=25,5,4,3,8,8&letters=
 
+![solver](solver.jpg)
+
+
 **puzzle_big.csv**
 
 ```csv
@@ -35,3 +38,4 @@ C01,I,N,N,E,R,F,A,C,E,,
 ```
 
 This is for importing into Google Sheets
+
