@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countdown Toolkit Solver</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --accent: #38bdf8;
+      --accent-hover: #0284c7;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #334155;
+      --tile-bg: #0369a1;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 680px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 0.5rem;
+      background: var(--card-bg);
+      padding: 0.35rem;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+      border: 1px solid var(--border);
+    }
+
+    .tab-btn {
+      flex: 1;
+      padding: 0.65rem;
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tab-btn.active {
+      background: var(--accent);
+      color: #0f172a;
+    }
+
+    .panel {
+      display: none;
+      background: var(--card-bg);
+      padding: 1.5rem;
+      border-radius: 16px;
+      border: 1px solid var(--border);
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+    }
+
+    .panel.active {
+      display: block;
+    }
+
+    .form-group {
+      margin-bottom: 1.25rem;
+    }
+
+    label {
+      display: block;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 1.1rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    input[type="text"]:focus {
+      border-color: var(--accent);
+    }
+
+    .actions {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 1rem;
+    }
+
+    button.btn {
+      flex: 1;
+      padding: 0.75rem 1.25rem;
+      background: var(--accent);
+      color: #0f172a;
+      border: none;
+      border-radius: 8px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    button.btn:hover {
+      background: var(--accent-hover);
+    }
+
+    button.btn-secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+
+    button.btn-secondary:hover {
+      background: var(--border);
+    }
+
+    .results {
+      margin-top: 1.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .step-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .step-item {
+      background: var(--bg);
+      padding: 0.65rem 1rem;
+      border-radius: 6px;
+      font-family: monospace;
+      font-size: 1rem;
+      border-left: 3px solid var(--accent);
+    }
+
+    .word-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+
+    .word-badge {
+      background: var(--bg);
+      padding: 0.5rem;
+      border-radius: 6px;
+      text-align: center;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      border: 1px solid var(--border);
+    }
+
+    .badge-length {
+      font-size: 0.75rem;
+      color: var(--accent);
+      margin-left: 0.25rem;
+    }
+
+    .loader {
+      display: inline-block;
+      width: 1rem;
+      height: 1rem;
+      border: 2px solid #0f172a;
+      border-radius: 50%;
+      border-top-color: transparent;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <h1>Countdown Solver</h1>
+  </header>
+
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchTab('numbers')">Numbers Round</button>
+    <button class="tab-btn" onclick="switchTab('letters')">Letters Round</button>
+  </div>
+
+  <!-- NUMBERS PANEL -->
+  <div id="numbers-panel" class="panel active">
+    <form id="numbers-form">
+      <div class="form-group">
+        <label for="target">Target Number</label>
+        <input type="text" id="target" placeholder="e.g., 952" required pattern="\d+">
+      </div>
+      <div class="form-group">
+        <label for="numbers">Available Tiles (6 Numbers)</label>
+        <input type="text" id="numbers" placeholder="e.g., 25, 50, 75, 100, 6, 3" required>
+      </div>
+      <div class="actions">
+        <button type="submit" class="btn">Solve Numbers</button>
+        <button type="button" class="btn btn-secondary" onclick="generateRandomNumbers()">Random Game</button>
+      </div>
+    </form>
+    <div id="numbers-results" class="results" style="display: none;"></div>
+  </div>
+
+  <!-- LETTERS PANEL -->
+  <div id="letters-panel" class="panel">
+    <form id="letters-form">
+      <div class="form-group">
+        <label for="letters">Letters (up to 9)</label>
+        <input type="text" id="letters" placeholder="e.g., KTREAOPIN" maxlength="12" required>
+      </div>
+      <div class="actions">
+        <button type="submit" class="btn" id="letters-btn">Find Anagrams</button>
+      </div>
+    </form>
+    <div id="letters-results" class="results" style="display: none;"></div>
+  </div>
+</div>
+
+<script>
+  // Tab Switching
+  function switchTab(tab) {
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    
+    if (tab === 'numbers') {
+      document.querySelectorAll('.tab-btn')[0].classList.add('active');
+      document.getElementById('numbers-panel').classList.add('active');
+    } else {
+      document.querySelectorAll('.tab-btn')[1].classList.add('active');
+      document.getElementById('letters-panel').classList.add('active');
+    }
+  }
+
+  // NUMBERS SOLVER (Pairwise Expression Tree Search)
+  function solveCountdownNumbers(target, numbers) {
+    let bestMatch = null;
+    let closestDiff = Infinity;
+
+    function search(items) {
+      for (const item of items) {
+        const diff = Math.abs(item.val - target);
+        if (diff < closestDiff) {
+          closestDiff = diff;
+          bestMatch = item;
+          if (diff === 0) return true; // Exact solution found
+        }
+      }
+
+      if (items.length <= 1) return false;
+
+      for (let i = 0; i < items.length; i++) {
+        for (let j = i + 1; j < items.length; j++) {
+          const a = items[i];
+          const b = items[j];
+          const remaining = items.filter((_, idx) => idx !== i && idx !== j);
+
+          const ops = [];
+          
+          // Addition
+          ops.push({ val: a.val + b.val, step: `${a.val} + ${b.val} = ${a.val + b.val}` });
+          
+          // Subtraction (positive results only)
+          if (a.val > b.val) ops.push({ val: a.val - b.val, step: `${a.val} - ${b.val} = ${a.val - b.val}` });
+          if (b.val > a.val) ops.push({ val: b.val - a.val, step: `${b.val} - ${a.val} = ${b.val - a.val}` });
+
+          // Multiplication (prune identity 1)
+          if (a.val !== 1 && b.val !== 1) {
+            ops.push({ val: a.val * b.val, step: `${a.val} × ${b.val} = ${a.val * b.val}` });
+          }
+
+          // Division (exact integers only, prune identity 1)
+          if (b.val !== 1 && b.val !== 0 && a.val % b.val === 0) {
+            ops.push({ val: a.val / b.val, step: `${a.val} / ${b.val} = ${a.val / b.val}` });
+          }
+          if (a.val !== 1 && a.val !== 0 && b.val % a.val === 0) {
+            ops.push({ val: b.val / a.val, step: `${b.val} / ${a.val} = ${b.val / a.val}` });
+          }
+
+          for (const op of ops) {
+            const nextItem = {
+              val: op.val,
+              steps: [...a.steps, ...b.steps, op.step]
+            };
+            if (search([nextItem, ...remaining])) return true;
+          }
+        }
+      }
+      return false;
+    }
+
+    const initialItems = numbers.map(n => ({ val: n, steps: [] }));
+    search(initialItems);
+    return { bestMatch, closestDiff };
+  }
+
+  // Handle Numbers Form Submit
+  document.getElementById('numbers-form').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const target = parseInt(document.getElementById('target').value, 10);
+    const numbers = document.getElementById('numbers').value
+      .split(/[\s,]+/)
+      .map(n => parseInt(n.trim(), 10))
+      .filter(n => !isNaN(n));
+
+    const resultsDiv = document.getElementById('numbers-results');
+    resultsDiv.style.display = 'block';
+
+    const { bestMatch, closestDiff } = solveCountdownNumbers(target, numbers);
+
+    if (!bestMatch || bestMatch.steps.length === 0) {
+      if (numbers.includes(target)) {
+        resultsDiv.innerHTML = `<h3>Exact match! Target tile is already present.</h3>`;
+      } else {
+        resultsDiv.innerHTML = `<h3>No calculations possible.</h3>`;
+      }
+      return;
+    }
+
+    let html = closestDiff === 0 
+      ? `<h3 style="color: var(--accent); margin-bottom: 0.75rem;">Exact Solution (${target}):</h3>` 
+      : `<h3 style="color: #f59e0b; margin-bottom: 0.75rem;">Closest Match (${bestMatch.val}, off by ${closestDiff}):</h3>`;
+
+    html += `<ul class="step-list">`;
+    bestMatch.steps.forEach(s => {
+      html += `<li class="step-item">${s}</li>`;
+    });
+    html += `</ul>`;
+
+    resultsDiv.innerHTML = html;
+    updateURLParams({ target, numbers: numbers.join(',') });
+  });
+
+  // Random Numbers Generator
+  function generateRandomNumbers() {
+    const large = [25, 50, 75, 100];
+    const small = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10];
+    
+    // Pick 2 large, 4 small
+    const selected = [];
+    for (let i = 0; i < 2; i++) {
+      const idx = Math.floor(Math.random() * large.length);
+      selected.push(large.splice(idx, 1)[0]);
+    }
+    for (let i = 0; i < 4; i++) {
+      const idx = Math.floor(Math.random() * small.length);
+      selected.push(small.splice(idx, 1)[0]);
+    }
+
+    const target = Math.floor(Math.random() * 900) + 101; // 101-999
+
+    document.getElementById('target').value = target;
+    document.getElementById('numbers').value = selected.join(', ');
+  }
+
+  // LETTERS ANAGRAM SOLVER
+  let cachedDictionary = null;
+
+  async function getDictionary() {
+    if (cachedDictionary) return cachedDictionary;
+    
+    // Efficient dictionary source
+    const response = await fetch('https://raw.githubusercontent.com/raun/Scrabble/master/words.txt');
+    const text = await response.text();
+    cachedDictionary = text.split(/\r?\n/).map(w => w.trim().toLowerCase()).filter(w => w.length >= 3);
+    return cachedDictionary;
+  }
+
+  function getCharMap(str) {
+    const map = {};
+    for (const char of str.toLowerCase()) {
+      map[char] = (map[char] || 0) + 1;
+    }
+    return map;
+  }
+
+  function canForm(wordMap, rackMap) {
+    for (const char in wordMap) {
+      if (!rackMap[char] || wordMap[char] > rackMap[char]) return false;
+    }
+    return true;
+  }
+
+  document.getElementById('letters-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = document.getElementById('letters-btn');
+    const input = document.getElementById('letters').value.trim().toLowerCase();
+    const resultsDiv = document.getElementById('letters-results');
+
+    btn.innerHTML = `<span class="loader"></span> Loading...`;
+    btn.disabled = true;
+
+    try {
+      const dictionary = await getDictionary();
+      const rackMap = getCharMap(input);
+
+      const matches = [];
+      for (const word of dictionary) {
+        if (word.length <= input.length && canForm(getCharMap(word), rackMap)) {
+          matches.push(word);
+        }
+      }
+
+      // Sort by length descending, then alphabetically
+      matches.sort((a, b) => b.length - a.length || a.localeCompare(b));
+
+      resultsDiv.style.display = 'block';
+      if (matches.length === 0) {
+        resultsDiv.innerHTML = `<h3>No anagrams found.</h3>`;
+      } else {
+        let html = `<h3 style="margin-bottom: 0.75rem;">Found ${matches.length} words:</h3><div class="word-grid">`;
+        matches.slice(0, 60).forEach(w => {
+          html += `<div class="word-badge">${w.toUpperCase()} <span class="badge-length">(${w.length})</span></div>`;
+        });
+        html += `</div>`;
+        resultsDiv.innerHTML = html;
+      }
+
+      updateURLParams({ letters: input.toUpperCase() });
+    } catch (err) {
+      resultsDiv.style.display = 'block';
+      resultsDiv.innerHTML = `<h3 style="color: #ef4444;">Error loading word list. Check network connection.</h3>`;
+    } finally {
+      btn.innerHTML = `Find Anagrams`;
+      btn.disabled = false;
+    }
+  });
+
+  // URL Parameter Handling
+  function updateURLParams(params) {
+    const url = new URL(window.location);
+    Object.keys(params).forEach(k => url.searchParams.set(k, params[k]));
+    window.history.replaceState({}, '', url);
+  }
+
+  function loadURLParams() {
+    const params = new URLSearchParams(window.location.search);
+    const target = params.get('target');
+    const numbers = params.get('numbers');
+    const letters = params.get('letters');
+
+    if (target) document.getElementById('target').value = target;
+    if (numbers) document.getElementById('numbers').value = numbers;
+    if (letters) {
+      document.getElementById('letters').value = letters;
+      switchTab('letters');
+    }
+  }
+
+  loadURLParams();
+</script>
+</body>
+</html>
