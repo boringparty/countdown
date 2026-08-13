@@ -1,24 +1,24 @@
-Date: 11/08/2026
+Date: 12/08/2026
 Guest: Pauline McLynn
-Max: 123
+Max: 133
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,G,R,G,E,O,P,D,U,T,,"GROUPED, GROUPED, TROGGED"
-L02,R,P,E,O,S,F,E,A,L,,"FLARES, FLARES, PAROLEES"
-N01,50,6,1,8,4,9,,,,742,
-T01,"Forget the eating; this is all about the ""no"".",
-T01,N,O,E,A,T,I,N,G,,,NEGATION
-L03,N,L,I,E,A,V,G,E,S,,"LINEAGES, LEAVING, LEAVINGS"
-L04,T,D,N,O,I,S,H,O,U,,"HOUNDS, HOUNDS"
-N02,100,8,10,3,6,2,,,,936,
-L05,C,O,S,C,R,I,E,C,R,,"CORRIES, CRIERS"
-L06,P,N,H,W,O,A,O,Y,I,,"WHOOP, WHOOP, APHONY"
-N03,50,7,10,2,9,5,,,,301,
-T02,"She had these dried fruits, and tried a new kind while watching her favourite Channel 4 show .",
-T02,I,S,T,O,P,C,A,R,,,APRICOTS
-L07,T,E,L,P,A,M,T,U,O,,AMPLE
-L08,D,S,B,E,A,E,N,M,N,,"BANDS, BEAMED"
-L09,K,T,S,I,E,A,G,R,O,,"STORAGE, STRIKE, GORIEST, ROASTIE"
-L10,X,T,S,U,E,R,N,R,A,,"NATURES, STERN, SAUNTER"
-N04,75,8,5,10,10,8,,,,737,
-C01,C,O,U,N,T,E,D,H,U,,UNTOUCHED
+L01,S,R,D,E,O,E,K,N,R,,"RENDERS, ENDORSER"
+L02,S,C,O,I,R,T,O,R,I,,"STOIC, SCOOT"
+N01,25,8,6,2,3,10,,,,262,
+T01,A part of Dara's old car stopped working; she's got Bangaranga !,
+T01,D,A,R,A,R,I,O,T,,,RADIATOR
+L03,H,T,G,E,O,E,P,V,N,,"EVENT, VOTE"
+L04,G,C,T,I,A,E,R,T,Z,,"CATTIER, CATTIER, CITRATE"
+N02,100,8,4,3,5,9,,,,835,
+L05,R,S,P,F,O,U,I,N,H,,"FURNISH, POURS, NOURISH"
+L06,D,S,R,A,I,S,Y,E,D,,"RAISED, DAYSIDES"
+N03,50,10,2,1,7,10,,,,504,
+T02,Are these US music awards given out to female relatives?,
+T02,S,A,M,G,R,I,M,E,,,GRAMMIES
+L07,R,M,R,A,U,A,M,S,E,,"REAMS, RAMMERS"
+L08,P,N,G,I,A,B,N,T,E,,"PANTING, BEATING, GENTIAN"
+L09,G,S,L,I,O,N,L,N,E,,"SLAIN, SELLING, LONGLINES"
+L10,L,T,P,A,I,U,D,T,M,,"ADULT, PLAUDIT"
+N04,25,4,1,9,9,8,,,,653,
+C01,M,I,N,I,T,A,N,G,A,,ANIMATING
