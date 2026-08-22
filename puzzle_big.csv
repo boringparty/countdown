@@ -1,24 +1,25 @@
-Date: 20/08/2026
+Date: 21/08/2026
 Guest: Debbie McGee
 Max: 134
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,H,D,N,S,E,I,E,O,N,,"SHINNED, —"
-L02,T,S,D,E,U,O,L,S,E,,"DELOUSES, LOUDEST"
-N01,25,50,1,6,6,8,,,,474,
-T01,"Is it too late to say ""I'm sorry"" for going to too many Scottish parties?",
-T01,H,I,D,S,L,I,C,E,,,CEILIDHS
-L03,G,D,M,I,A,E,T,H,O,,"HOMAGE, IMAGED, GODETIA"
-L04,M,G,B,R,A,E,U,E,P,,UMBRAGE
-N02,3,10,1,4,7,10,,,,240,
-L05,G,K,M,R,I,A,O,I,V,,"VIRAGO, GRAM, ORIGAMI"
-L06,P,N,L,O,I,E,C,R,U,,"PURLOIN, CLONER"
-N03,75,25,5,1,1,10,,,,248,
-T02,"If you're a seafood fan, then this would be welcome on your plate.",
-T02,N,I,C,E,S,L,U,G,,,SCUNGILE
-L07,D,L,F,A,I,E,U,N,T,,"FLAUNTED, INFLATED"
-L08,Z,N,C,D,A,E,U,T,A,,"CAUDATE, CADENZA"
-L09,N,T,S,N,O,U,O,S,A,,"SNOUTS, SOON"
-L10,R,F,S,T,I,E,O,E,W,,"FORTIES, FOSTER"
-N04,6,6,2,10,9,1,,,,906,
-C01,S,I,M,S,I,N,G,E,R,,GRIMINESS
+L01,M,B,G,H,D,U,O,E,L,,"HUMBLED, HUMBLED"
+L02,A,P,S,I,R,T,E,A,S,,"PARASITES, PARASITES, ASPIRATES"
+N01,100,5,1,7,9,7,,,,226,
+T01,"On reflection, it'll clear up any doubts you have about how you look.",
+T01,C,L,E,A,R,S,U,P,,,SPECULAR
+L03,E,L,G,K,I,O,M,N,D,,"KINGDOM, GODLIKE, DOGLIKE, MINGLED"
+L04,R,L,P,G,E,O,A,D,T,,PORTAGED
+N02,50,3,5,1,6,2,,,,492,
+L05,X,N,C,H,E,I,E,O,R,,"CHEERIO, HEROINE"
+L06,A,P,T,U,N,F,E,W,R,,"PEANUT, PUNTER"
+N03,50,9,3,1,9,7,,,,818,
+T02,He wastes his money on deep-fried food.,
+T02,R,E,S,T,R,I,F,T,,,FRITTERS
+L07,Q,N,C,A,U,T,O,S,N,,"TOUCANS, TOUCANS"
+L08,P,D,G,R,C,A,I,O,N,,"ORGANIC, ORGANIC, PODAGRIC"
+L09,I,T,R,E,O,Y,T,A,R,,"RATTIER, RATTIER"
+L10,S,L,S,R,O,A,U,O,T,,
+N04,75,9,5,10,6,7,,,,806,
+C01,G,R,O,U,P,S,P,I,N,,
+C02,J,I,N,G,O,R,I,C,E,,REJOICING
