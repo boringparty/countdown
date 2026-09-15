@@ -1,24 +1,24 @@
-Date: 11/09/2026
-Guest: Katharine Merry
-Max: 145
+Date: 14/09/2026
+Guest: Marcus Brigstocke
+Max: 134
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,T,G,N,C,U,A,E,H,O,,"TOUGHEN, CHANGEOUT"
-L02,P,R,D,S,A,I,K,O,M,,"RADIOS, IMPARKS"
-N01,100,25,50,75,10,5,,,,218,
-T01,I think somebody's trying to pull the wool over our eyes here.,
-T01,M,O,O,N,F,U,L,S,,,MOUFLONS
-L03,T,R,P,T,U,O,E,D,S,,"SPROUTED, PUTTERS, POSTURED"
-L04,W,C,G,I,A,E,R,B,X,,"WAXIER, WAXIER, RIBCAGE"
-N02,25,50,6,3,10,8,,,,947,
-L05,N,S,R,N,I,U,E,T,A,,"URINATES, RUNNIEST, SATURNINE"
-L06,L,S,M,P,E,A,T,O,Y,,"EMPLOYS, SAMPLE, MAYPOLES"
-N03,25,75,100,50,4,3,,,,429,
-T02,Gone but not forgotten? It's the other way around; it's forgotten but not gone.,
-T02,E,M,U,S,N,E,A,R,,,USERNAME
-L07,C,L,G,D,A,O,T,I,G,,"GLOAT, LOGGIA"
-L08,N,L,T,S,E,A,O,E,N,,"NEONATES, STOLEN"
-L09,R,H,N,V,A,O,I,N,A,,"NIRVANA, NIRVANA, OVARIAN"
-L10,F,L,N,L,E,A,E,M,I,,"INFLAME, finale ☓7"
-N04,25,2,3,9,2,8,,,,720,
-C01,R,I,O,C,R,O,O,N,S,,CORROSION
+L01,G,C,H,R,E,A,O,T,N,,"ANOTHER, CHANTER"
+L02,S,U,E,A,D,N,L,P,E,,"DEPLANES, PLANED, UNSEALED"
+N01,50,100,25,75,5,4,,,,244,
+T01,"If you get the answer to this, you'll certainly know your onions.",
+T01,H,I,P,O,P,E,R,A,,,EPIPHORA
+L03,W,A,O,U,S,C,H,P,L,,"CUPOLAS, SCALP, SALCHOW"
+L04,R,S,N,L,A,I,E,Q,T,,"ENTRAILS, LATRINES"
+N02,25,6,3,8,4,10,,,,353,
+L05,C,R,N,G,O,A,I,D,F,,"ORGANIC, FORCING, ADORING"
+L06,N,S,M,T,O,E,R,J,O,,"MONSTER, MONSTER"
+N03,25,75,50,100,5,3,,,,731,
+T02,No link to shoes; just several feet.,
+T02,S,H,O,E,L,I,N,K,,,SINKHOLE
+L07,G,N,T,S,I,E,I,R,F,,"SIFTING, RESITING, STINGIER"
+L08,P,K,R,T,E,A,U,D,A,,"PARTAKE, DEPART"
+L09,V,L,T,E,I,O,G,N,E,,"VIOLENT, LOVING, GENTILE, VOLTING"
+L10,M,N,R,T,I,U,O,A,R,,"RAINOUT, RUMINATOR"
+N04,50,4,7,10,1,9,,,,657,
+C01,A,D,M,I,N,U,S,E,R,,☓ unadmires
