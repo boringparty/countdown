@@ -1,25 +1,24 @@
-Date: 22/09/2026
+Date: 23/09/2026
 Guest: Neil Delamere
-Max: 122
+Max: 156
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,C,E,T,I,P,O,W,I,S,,"COPIES, POETICS"
-L02,L,D,A,E,N,I,O,T,M,,"ELATION, LAMENT, DELATION, DOMINATE, MELANOID"
-N01,100,9,9,5,6,7,,,,703,
-T01,"If it happens, you'll definitely hear the end of it.",
-T01,B,O,D,H,I,K,E,S,,,KIBOSHED
-L03,E,A,L,R,S,I,N,D,O,,"LOANERS, SLANDER, ISLANDER"
-L04,P,E,V,A,K,U,L,I,S,,SPEAK
-N02,7,5,9,9,5,6,,,,345,
-L05,N,E,G,O,S,U,Y,F,R,,"ROGUES, SURGEON, EGOSURF"
-L06,C,T,E,A,Z,M,A,R,G,,"AMAZE, CREAM, MARGATE"
-N03,75,9,2,5,9,4,,,,946,
-T02,"If you were in the range of the seaside this summer, you may have tried this.",
-T02,R,A,N,G,E,S,E,A,,,SANGAREE
-L07,L,N,R,I,O,E,J,T,N,,"JOINER, JOINER, JOINTER"
-L08,N,A,F,I,B,U,R,E,N,,FUNNIER
-L09,H,E,O,L,T,S,A,D,E,,DESOLATE
-L10,R,I,S,U,G,O,X,I,T,,"GROUT, GROUTS"
-N04,100,7,4,2,9,9,,,,296,
-C01,S,I,R,S,A,G,E,N,T,,ASSERTING
-C02,T,I,Z,Z,I,R,E,F,S,,
+L01,H,T,E,U,C,R,N,O,D,,"TROUNCED, CHURNED"
+L02,B,T,S,I,E,N,R,A,M,,"BARMIEST, BRAINSTEM"
+N01,2,8,5,4,3,6,,,,521,
+T01,"Not too fast, not too slow; just nice and steady.",
+T01,D,O,O,M,R,A,T,E,,,MODERATO
+L03,N,G,S,T,P,I,O,E,R,,"POSTERING, PONGIEST, REPOSTING"
+L04,I,O,F,N,D,R,E,A,V,,"VARIED, FONDER"
+N02,75,25,8,9,7,9,,,,124,
+L05,I,E,D,N,S,O,K,L,U,,"SNIDE, UNSOILED"
+L06,T,S,N,G,E,I,E,P,L,,"PEELING, SLEEPING, STEEPLING"
+N03,4,2,1,5,2,6,,,,149,
+T02,The restaurant was fined a set amount for having a dirty kitchen.,
+T02,F,I,N,E,D,S,E,T,,,INFESTED
+L07,R,T,D,L,U,A,O,M,A,,"MODULAR, DRAMA, ADULATOR"
+L08,C,N,T,U,E,O,Q,P,U,,"COUNT, QUOTE, UNQUOTE"
+L09,R,S,W,G,L,E,A,O,E,,"WAGERS, GLOWERS"
+L10,P,R,I,E,A,Y,T,S,O,,"SOAPIER, PIRATES, PASTORIE"
+N04,50,100,25,5,2,9,,,,634,
+C01,N,E,R,V,E,P,O,D,S,,
