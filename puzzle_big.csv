@@ -1,24 +1,24 @@
-Date: 29/09/2026
+Date: 30/09/2026
 Guest: Lee McKenzie
 Max: 124
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,T,C,S,A,E,G,I,R,D,,"CAGIEST, STAGED, DISGRACE"
-L02,S,P,S,O,U,E,G,V,N,,"SPOUSE, SPOUSE, SPONGES"
-N01,100,75,50,25,7,10,,,,899,
-T01,"You can see it everywhere, but it's nothing without a camera.",
-T01,C,A,S,E,D,E,M,O,,,SEMACODE
-L03,B,R,P,A,O,I,M,Y,T,,"IMPART, PARTY"
-L04,J,N,R,E,I,O,T,M,A,,"JANITOR, ROMAINE"
-N02,50,4,8,5,4,10,,,,371,
-L05,D,G,S,E,U,D,F,E,A,,"FUDGES, faded ☓6, DEFUSED"
-L06,M,T,S,E,I,O,L,Z,S,,"LISSOME, LISSOME"
-N03,9,10,2,2,9,6,,,,910,
-T02,It sounds the metal had this relationship with the french footballer .,
-T02,L,I,C,I,T,N,A,P,,,PLATINIC
-L07,R,H,N,U,E,A,D,G,R,,"GRANDER, HEAD, GRANDEUR"
-L08,C,W,L,O,E,E,T,H,C,,"CLOTHE, CLOTHE, CLOCHE"
-L09,N,L,P,A,O,I,T,S,L,,"PATIOS, PAINTS, STALLION"
-L10,P,L,A,E,R,S,N,F,I,,"FLIERS, PALER, PRALINES"
-N04,25,75,6,7,5,10,,,,700,
-C01,N,O,E,L,S,S,O,F,A,,☓ afoolness
+L01,P,M,L,O,E,F,D,U,R,,"FLOURED, REMOULD, FLUMPED"
+L02,S,P,R,E,I,T,W,O,S,,"POWERS, SPRITES, RIPOSTES"
+N01,8,3,7,4,6,1,,,,181,
+T01,"It's not a comedy duo from the 1980s, but it does involve going back in time.",
+T01,T,R,O,T,R,A,C,E,,,RETROACT
+L03,K,C,T,E,U,O,N,T,A,,"TOKEN, TOUCANET"
+L04,Q,R,S,E,E,P,S,A,R,,"PRESSER, PARSERS, ASPERSER"
+N02,75,1,2,9,5,5,,,,818,
+L05,L,F,N,I,E,O,L,R,T,,"FILTER, LOFTIER, TREFOIL"
+L06,X,N,R,I,A,I,T,C,O,,"ACTION, RATION, CORTINA"
+N03,50,75,25,100,5,2,,,,688,
+T02,"Like a schoolteacher, they're scared to have a head above them.",
+T02,S,P,A,R,E,T,A,P,,,PARAPETS
+L07,B,N,M,A,U,I,R,E,T,,"MINARET, MINARET, RUMINATE"
+L08,G,S,R,U,O,A,E,Y,N,,"GROUSE, ORANGES, SURGEON, YOUNGER"
+L09,L,H,N,I,O,E,H,N,E,,"LINEN, LEONINE"
+L10,D,G,V,U,A,E,M,S,E,,"GAMES, SMUDGE, MEDUSAE"
+N04,25,50,9,1,2,5,,,,781,
+C01,G,Y,M,P,I,L,E,O,N,,
