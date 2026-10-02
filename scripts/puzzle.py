@@ -43,6 +43,7 @@ def get_episode_info(offset=0, target_ep=None):
     r = fetch_with_retry(SERIES_URL)
     if not r:
         return None
+
     soup = BeautifulSoup(r.text, "html.parser")
 
     table = next(
@@ -54,35 +55,43 @@ def get_episode_info(offset=0, target_ep=None):
         None,
     )
 
-    # 1. Look up by direct episode number if passed
     if target_ep:
         target_ep = str(target_ep).strip()
+
         if table:
             for row in table.find_all("tr")[1:]:
                 cells = row.find_all("td")
+
                 if len(cells) < 2:
                     continue
+
                 ep_link = cells[0].find("a")
                 ep_num = ep_link.get_text(strip=True) if ep_link else None
+
                 if ep_num == target_ep:
                     date_str = cells[1].get_text(strip=True)
+
                     guest_cell = row.find("td", class_="guest")
                     guest = (
                         guest_cell.get_text(strip=True)
                         if guest_cell
                         else "Unknown"
                     )
+
                     max_cell = row.find("td", class_="max")
                     max_score = (
-                        max_cell.get_text(strip=True) if max_cell else "Unknown"
+                        max_cell.get_text(strip=True)
+                        if max_cell
+                        else "Unknown"
                     )
+
                     return {
                         "ep_num": ep_num,
                         "date": date_str,
                         "guest": guest,
                         "max_score": max_score,
                     }
-        # Fallback metadata if not listed in table
+
         return {
             "ep_num": target_ep,
             "date": "Manual Test",
@@ -90,38 +99,49 @@ def get_episode_info(offset=0, target_ep=None):
             "max_score": "Unknown",
         }
 
-    # 2. Look up by date using offset
     target_date = datetime.now(PACIFIC_TZ) + timedelta(days=offset)
     date_str = target_date.strftime("%d/%m/%Y")
+
     if not table:
         return None
 
     for row in table.find_all("tr")[1:]:
         cells = row.find_all("td")
+
         if len(cells) < 2:
             continue
+
         if cells[1].get_text(strip=True) == date_str:
             ep_link = cells[0].find("a")
             ep_num = ep_link.get_text(strip=True) if ep_link else None
+
             guest_cell = row.find("td", class_="guest")
             guest = (
-                guest_cell.get_text(strip=True) if guest_cell else "Unknown"
+                guest_cell.get_text(strip=True)
+                if guest_cell
+                else "Unknown"
             )
+
             max_cell = row.find("td", class_="max")
             max_score = (
-                max_cell.get_text(strip=True) if max_cell else "Unknown"
+                max_cell.get_text(strip=True)
+                if max_cell
+                else "Unknown"
             )
+
             return {
                 "ep_num": ep_num,
                 "date": date_str,
                 "guest": guest,
                 "max_score": max_score,
             }
+
     return None
 
 
 def fetch_episode_table(ep_num):
     rounds = []
+
     r = fetch_with_retry(f"{BASE_URL}/Episode_{ep_num}")
     soup = BeautifulSoup(r.text, "html.parser")
 
@@ -132,10 +152,13 @@ def fetch_episode_table(ep_num):
             sel = row.select_one(".tselection")
             clue_cell = row.select_one("td[colspan='3']")
             answer_cell = row.select_one("td[colspan='2']")
+
             letters = list(sel.get_text(strip=True).upper()) if sel else []
             letters += [""] * (9 - len(letters))
+
             clue = clue_cell.get_text(" ", strip=True) if clue_cell else ""
             answer = answer_cell.get_text(strip=True) if answer_cell else ""
+
             rounds.append({
                 "type": "T",
                 "round_id": f"T{t_count:02d}",
@@ -143,19 +166,24 @@ def fetch_episode_table(ep_num):
                 "answer": answer,
                 "clue": clue,
             })
+
             t_count += 1
             continue
 
         sel_cell = row.select_one(".lselection, .nselection, .cselection")
+
         if not sel_cell:
             continue
+
         sel_text = sel_cell.get_text(strip=True)
         classes = sel_cell.get("class", [])
 
         if "lselection" in classes:
             round_id = f"L{l_count:02d}"
             l_count += 1
+
             letters = list(sel_text.upper()) + [""] * (9 - len(sel_text))
+
             answer_cells = [
                 w.strip()
                 for cls_name in ["c1word", "c2word", "lothers"]
@@ -163,7 +191,9 @@ def fetch_episode_table(ep_num):
                 for w in cell.get_text(strip=True).split(",")
                 if w and not w.strip().endswith(("x", "☓", "*"))
             ]
+
             answer_text = ", ".join(answer_cells)
+
             rounds.append({
                 "type": "L",
                 "round_id": round_id,
@@ -171,13 +201,17 @@ def fetch_episode_table(ep_num):
                 "answer": answer_text,
                 "clue": None,
             })
+
         elif "nselection" in classes:
             round_id = f"N{n_count:02d}"
             n_count += 1
+
             parts = sel_text.split("→")
             numbers = parts[0].split()
             target = parts[1].strip() if len(parts) > 1 else ""
+
             numbers += [""] * (9 - len(numbers))
+
             rounds.append({
                 "type": "N",
                 "round_id": round_id,
@@ -185,16 +219,21 @@ def fetch_episode_table(ep_num):
                 "answer": "",
                 "clue": target,
             })
+
         elif "cselection" in classes:
             round_id = f"C{c_count:02d}"
             c_count += 1
+
             letters = list(sel_text.upper()) + [""] * (9 - len(sel_text))
+
             answer_cell = row.select_one(".c1buzz")
+
             answer_text = (
                 answer_cell.get_text(strip=True).split("(")[0].strip()
                 if answer_cell
                 else ""
             )
+
             rounds.append({
                 "type": "C",
                 "round_id": round_id,
@@ -202,11 +241,13 @@ def fetch_episode_table(ep_num):
                 "answer": answer_text,
                 "clue": None,
             })
+
     return rounds
 
 
 def write_csv(offset=0, target_ep=None):
     info = get_episode_info(offset=offset, target_ep=target_ep)
+
     if not info or not info.get("ep_num"):
         print("No episode found.")
         return
@@ -253,21 +294,27 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Scrape Apterous episode puzzles."
     )
+
     parser.add_argument(
         "--ep",
         type=str,
         default="",
         help="Specific episode number (e.g. 9123)",
     )
+
     parser.add_argument(
         "--offset",
         type=int,
         default=0,
         help="Days offset (e.g. -1 for yesterday)",
     )
+
     parser.add_argument(
-        "--force", action="store_true", help="Bypass weekend check"
+        "--force",
+        action="store_true",
+        help="Bypass weekend check",
     )
+
     args = parser.parse_args()
 
     pacific_now = datetime.now(PACIFIC_TZ)
