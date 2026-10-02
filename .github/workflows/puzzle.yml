@@ -42,10 +42,44 @@ jobs:
             --offset "${{ inputs.offset || 0 }}" \
             ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
+      - name: Update CSV in README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          csv_file = Path("puzzle_big.csv")
+
+          readme_text = readme.read_text(encoding="utf-8")
+          csv_text = csv_file.read_text(encoding="utf-8").rstrip()
+
+          start_marker = "<!-- CSV_START -->"
+          end_marker = "<!-- CSV_END -->"
+
+          if start_marker not in readme_text:
+              raise SystemExit("ERROR: CSV_START marker not found in README.md")
+
+          if end_marker not in readme_text:
+              raise SystemExit("ERROR: CSV_END marker not found in README.md")
+
+          start = readme_text.index(start_marker) + len(start_marker)
+          end = readme_text.index(end_marker)
+
+          replacement = f"\n```csv\n{csv_text}\n```\n"
+
+          readme_text = (
+              readme_text[:start]
+              + replacement
+              + readme_text[end:]
+          )
+
+          readme.write_text(readme_text, encoding="utf-8")
+          PY
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add puzzle_big.csv
+          git add puzzle_big.csv README.md
           git diff-index --quiet HEAD || git commit -m "Automated update: puzzle_big.csv [skip ci]"
           git push
