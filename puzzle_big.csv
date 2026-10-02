@@ -1,24 +1,25 @@
-Date: 30/09/2026
+Date: 01/10/2026
 Guest: Lee McKenzie
-Max: 124
+Max: 135
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,P,M,L,O,E,F,D,U,R,,"FLOURED, REMOULD, FLUMPED"
-L02,S,P,R,E,I,T,W,O,S,,"POWERS, SPRITES, RIPOSTES"
-N01,8,3,7,4,6,1,,,,181,
-T01,"It's not a comedy duo from the 1980s, but it does involve going back in time.",
-T01,T,R,O,T,R,A,C,E,,,RETROACT
-L03,K,C,T,E,U,O,N,T,A,,"TOKEN, TOUCANET"
-L04,Q,R,S,E,E,P,S,A,R,,"PRESSER, PARSERS, ASPERSER"
-N02,75,1,2,9,5,5,,,,818,
-L05,L,F,N,I,E,O,L,R,T,,"FILTER, LOFTIER, TREFOIL"
-L06,X,N,R,I,A,I,T,C,O,,"ACTION, RATION, CORTINA"
-N03,50,75,25,100,5,2,,,,688,
-T02,"Like a schoolteacher, they're scared to have a head above them.",
-T02,S,P,A,R,E,T,A,P,,,PARAPETS
-L07,B,N,M,A,U,I,R,E,T,,"MINARET, MINARET, RUMINATE"
-L08,G,S,R,U,O,A,E,Y,N,,"GROUSE, ORANGES, SURGEON, YOUNGER"
-L09,L,H,N,I,O,E,H,N,E,,"LINEN, LEONINE"
-L10,D,G,V,U,A,E,M,S,E,,"GAMES, SMUDGE, MEDUSAE"
-N04,25,50,9,1,2,5,,,,781,
-C01,G,Y,M,P,I,L,E,O,N,,
+L01,C,G,T,E,I,O,X,T,A,,"COGITATE, ATTIC"
+L02,D,N,O,I,E,R,N,T,U,,"DINNER, TINDER, NEUTRINO, ROUTINED"
+N01,100,50,2,9,3,5,,,,795,
+T01,It was almost as though she'd been a fan of cartoned milk forever.,
+T01,G,O,L,F,L,I,N,E,,,LIFELONG
+L03,N,G,I,L,Z,O,E,P,F,,"ELOPING, ELOPING"
+L04,N,S,C,O,I,R,D,A,I,,"RANCID, COINS"
+N02,100,3,9,5,5,2,,,,609,
+L05,L,R,V,E,U,A,N,H,U,,"UNREAL, UNRAVEL"
+L06,E,O,R,P,F,E,O,S,S,,"PROFESS, SPOOFERS"
+N03,100,25,7,2,6,2,,,,239,
+T02,Don always tried to be at the forefront of fashion.,
+T02,D,O,N,T,R,I,E,D,,,TRENDOID
+L07,B,T,M,A,E,W,S,U,E,,"BEAUTS, BEAST"
+L08,Y,D,T,A,I,A,N,E,P,,"PAINTED, PAITNED"
+L09,S,U,O,K,N,D,E,O,T,,"TOKENS, STONKED"
+L10,M,S,L,I,A,I,L,H,E,,HEALS
+N04,25,10,2,5,5,9,,,,487,
+C01,W,E,S,T,B,R,E,E,D,,
+C02,O,N,E,P,E,T,M,I,X,,EXEMPTION
