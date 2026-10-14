@@ -83,3 +83,34 @@ jobs:
           git add puzzle_big.csv README.md
           git diff-index --quiet HEAD || git commit -m "Automated update: puzzle_big.csv [skip ci]"
           git push
+
+      - name: Push CSV to Google Sheet
+        env:
+          WEB_APP_URL: ${{ secrets.GOOGLE_WEB_APP_URL }}
+        run: |
+          python - <<'PY'
+          import os
+          import requests
+          from pathlib import Path
+
+          web_app_url = os.environ.get('WEB_APP_URL')
+          if not web_app_url:
+              print("Warning: GOOGLE_WEB_APP_URL secret not set. Skipping Google Sheet sync.")
+              exit(0)
+
+          csv_path = Path("puzzle_big.csv")
+          if not csv_path.exists():
+              raise SystemExit("ERROR: puzzle_big.csv not found locally!")
+
+          csv_content = csv_path.read_text(encoding="utf-8")
+
+          print("Pushing updated puzzle_big.csv to Google Sheet...")
+          res = requests.post(
+              web_app_url,
+              data=csv_content.encode('utf-8'),
+              headers={'Content-Type': 'text/plain'}
+          )
+          
+          print("Google Sheet Response:", res.text)
+          res.raise_for_status()
+          PY
