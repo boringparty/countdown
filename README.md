@@ -12,29 +12,29 @@
 
 <!-- CSV_START -->
 ```csv
-Date: 20/10/2026
+Date: 21/10/2026
 Guest: Mark Radcliffe
 Max: 146
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,N,D,N,I,O,I,E,I,P,,"PINNED, PINED, PINIONED"
-L02,T,K,R,E,I,O,M,S,G,,"MOISTER, STRIKE, ERGOTISM"
-N01,75,6,8,7,1,2,,,,199,
-T01,Some people dodge'em; others become a big dipper.,
-T01,D,I,R,E,C,T,U,S,,,CRUDITES
-L03,N,L,R,A,E,U,T,G,A,,"GAUNTER, NATURAL"
-L04,C,F,R,E,U,E,O,F,L,,"REFUEL, RUFFLE, FORCEFUL"
-N02,75,10,1,6,9,8,,,,384,
-L05,D,M,S,I,U,I,A,E,T,,"AMUSED, MASTED, MISDATE, STADIUM"
-L06,C,G,Q,I,O,E,T,R,N,,"CRINGE, CORNET"
-N03,50,100,75,25,3,7,,,,444,
-T02,Forget Soft Cell and The Cure ; think about The Jam .,
-T02,S,O,F,T,C,U,R,E,,,FRUCTOSE
-L07,R,T,S,T,A,E,A,N,E,,"EARNEST, NEATER"
-L08,S,C,H,I,E,O,E,O,D,,"HOODIES, ECHOED, DIOCESE"
-L09,G,P,L,R,A,U,I,E,S,,"PURGES, GRAPES, EARPLUGS"
-L10,W,P,T,A,I,O,E,J,N,,WEAPON
-N04,9,1,3,4,5,8,,,,544,
-C01,S,C,O,U,R,I,O,T,A,,☓ autocrios
+L01,R,S,R,M,I,E,O,I,O,,"ROOMIER, ROOMIER, ROOMIES"
+L02,T,L,E,O,S,U,R,A,P,,"POUTERS, SPORULATE"
+N01,100,75,25,50,7,8,,,,311,
+T01,"She owns a little ship that sells this, that and the other.",
+T01,O,W,N,S,T,H,A,T,,,WHATNOTS
+L03,T,E,O,I,C,T,L,O,C,,TOILET
+L04,T,S,T,A,U,A,E,N,L,,"TALENTS, SULTANATE"
+N02,50,4,9,9,7,3,,,,394,
+L05,P,R,W,A,I,O,I,N,O,,"PRAWN, PIANO"
+L06,H,G,E,I,P,O,L,M,K,,"PHLEGM, PHLEGM, HOGLIKE"
+N03,75,3,7,6,10,9,,,,679,
+T02,"Ray met her in Soho, then she worked as this in Brazil.",
+T02,H,O,W,L,R,I,G,S,,,SHOWGIRL
+L07,N,D,N,E,A,E,T,O,E,,"DONATE, NEATENED"
+L08,R,A,M,E,C,U,A,Y,N,,"CREAMY, NUMERACY"
+L09,R,F,E,I,A,S,G,R,O,,"FORAGES, FORAGERS"
+L10,V,S,P,S,A,E,I,E,D,,PASSIVE
+N04,25,10,3,2,6,3,,,,947,
+C01,M,O,U,T,H,E,A,S,E,,
 ```
 <!-- CSV_END -->
