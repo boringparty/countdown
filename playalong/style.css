@@ -79,16 +79,17 @@ h1 {
   font-variant-numeric: tabular-nums;
 }
 main { width: min(100%, 920px); margin: 0 auto; padding: 14px 14px 32px; }
+
 #chips {
   display: flex;
-  gap: 0;
-  overflow-x: auto;
-  padding: 0;
+  flex-wrap: wrap; /* Multi-row wrapping on mobile */
+  gap: 3px;
+  padding: 4px;
   margin: 0 0 14px;
   border: 3px solid var(--blue-dark);
   background: var(--blue-mid);
-  scrollbar-width: thin;
 }
+
 button {
   min-height: 42px;
   padding: 9px 15px;
@@ -107,24 +108,30 @@ button:hover:not(:disabled) { background: var(--blue-bright); }
 button:active:not(:disabled) { transform: translateY(1px); }
 button:disabled { opacity: .45; cursor: default; }
 :focus-visible { outline: 3px solid #f2b900; outline-offset: 2px; }
+
 .chip {
-  flex: 1 0 auto;
-  min-width: 64px;
-  min-height: 48px;
-  padding: 8px 10px;
+  flex: 1 1 calc(20% - 3px);
+  min-width: 0;
+  min-height: 40px;
+  padding: 6px 4px;
   color: var(--ink);
   background: #e8f1f8;
-  border: 0;
-  border-right: 2px solid var(--blue-dark);
-  font-size: .76rem;
+  border: 1px solid var(--blue-dark);
+  border-radius: 4px;
+  font-size: .75rem;
+  font-weight: 700;
   letter-spacing: .015em;
   text-transform: none;
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: none;
 }
-.chip:last-child { border-right: 0; }
-.chip.on { color: white; background: var(--blue-deep); box-shadow: inset 0 -4px 0 var(--yellow); }
+.chip.on { color: white; background: var(--blue-deep); box-shadow: inset 0 -3px 0 var(--yellow); }
 .chip.done { color: #163c23; background: var(--green); }
 .chip.done.on { color: white; background: var(--blue-deep); }
+
 #round {
   position: relative;
   padding: clamp(14px, 3vw, 24px);
@@ -168,6 +175,7 @@ h2 small {
   font-size: clamp(.95rem, 2.6vw, 1.1rem);
   font-weight: 700;
 }
+
 .tiles {
   display: flex;
   justify-content: center;
@@ -302,7 +310,7 @@ p.ver { margin: 8px 0 0; color: #486b8a; font: 700 .7rem/1.4 ui-monospace, SFMon
   #score { min-width: 76px; padding: 6px 8px; font-size: .9rem; }
   main { padding: 10px 8px 24px; }
   #chips { margin-bottom: 10px; }
-  .chip { min-width: 58px; min-height: 44px; padding: 7px 8px; font-size: .7rem; }
+  .chip { min-height: 38px; padding: 5px 2px; font-size: .7rem; }
   #round { padding: 12px 10px; gap: 11px; border-width: 3px; }
   .tiles { gap: 4px; padding: 7px 4px; }
   .tile { width: clamp(1.8rem, 9.1vw, 2.8rem); border-width: 1px; }
@@ -322,9 +330,30 @@ p.ver { margin: 8px 0 0; color: #486b8a; font: 700 .7rem/1.4 ui-monospace, SFMon
 
 .puzzle-picker{display:flex;align-items:center;gap:.7rem;margin:1rem 0;font-size:.9rem}
 .puzzle-picker label{font-weight:600;white-space:nowrap}
-.puzzle-picker select{min-width:0;max-width:100%;flex:1;padding:.65rem .75rem;border:1px solid var(--line,#ccc);border-radius:.5rem;background:var(--panel,#fff);color:inherit;font:inherit}
+.puzzle-picker select{min-width:0;max-width:300px;flex:1;padding:.65rem .75rem;border:1px solid var(--line,#ccc);border-radius:.5rem;background:var(--panel,#fff);color:inherit;font:inherit}
 .puzzle-picker optgroup{font-weight:700}
 @media(max-width:480px){.puzzle-picker{align-items:flex-start;flex-direction:column}.puzzle-picker select{width:100%}}
 
 .solution{margin-top:.8rem;padding:.8rem 1rem;border:1px solid var(--line,#cbd5e1);border-radius:.6rem;background:var(--panel,#f8fafc);line-height:1.55}
 .solution[hidden]{display:none}
+
+/* On desktop (768px and wider): force all round buttons onto a single row */
+@media (min-width: 768px) {
+  #chips {
+    flex-wrap: nowrap;
+  }
+  
+  .chip {
+    flex: 1 1 0;
+    min-width: 0;
+    border-radius: 0;
+    border: 0;
+    border-right: 2px solid var(--blue-dark);
+    font-size: .8rem;
+    padding: 8px 2px;
+  }
+  
+  .chip:last-child {
+    border-right: 0;
+  }
+}
