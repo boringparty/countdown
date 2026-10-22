@@ -83,7 +83,36 @@
           "type": "conundrum",
           "selection": "PERTGONAD"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1681283,
+        "url": "https://www.tvmaze.com/episodes/1681283/8-out-of-10-cats-does-countdown-18x03-joe-wilkinson-sara-pascoe-sam-simmons",
+        "name": "S18E03 - Joe Wilkinson, Sara Pascoe, Sam Simmons",
+        "season": 18,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2019-08-09",
+        "airtime": "21:00",
+        "airstamp": "2019-08-09T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/520271.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/208/520271.jpg"
+        },
+        "summary": "<p>Sean Lock and Joe Wilkinson take on Jon Richardson and Sara Pascoe. Sam Simmons is in Dictionary Corner, while maths whizz Rachel Riley looks after the letters and numbers.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1681283"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 115,
@@ -160,7 +189,36 @@
           "type": "conundrum",
           "selection": "GROINPOPS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1681284,
+        "url": "https://www.tvmaze.com/episodes/1681284/8-out-of-10-cats-does-countdown-18x04-rob-beckett-alan-carr-sarah-millican-nick-mohammed",
+        "name": "S18E04 - Rob Beckett, Alan Carr, Sarah Millican, Nick Mohammed",
+        "season": 18,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2019-08-16",
+        "airtime": "21:00",
+        "airstamp": "2019-08-16T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/520767.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/208/520767.jpg"
+        },
+        "summary": "<p>Sean Lock and Rob Beckett take on special guest team captain Alan Carr and Sarah Millican. Nick Mohammed is in Dictionary Corner with Susie Dent. With Jimmy Carr and Rachel Riley.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1681284"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 116,
@@ -237,7 +295,36 @@
           "type": "conundrum",
           "selection": "CAMELSHIT"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1700360,
+        "url": "https://www.tvmaze.com/episodes/1700360/8-out-of-10-cats-does-countdown-18x05-sara-pascoe-alan-carr-tom-allen-rosie-jones",
+        "name": "S18E05 - Sara Pascoe, Alan Carr, Tom Allen, Rosie Jones",
+        "season": 18,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2019-08-23",
+        "airtime": "21:00",
+        "airstamp": "2019-08-23T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/522156.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/208/522156.jpg"
+        },
+        "summary": "<p>Sean Lock and Sara Pascoe take on special guest team captain Alan Carr and Tom Allen in the classic words-and-numbers quiz, while Rosie Jones joins Susie Dent in Dictionary Corner. Hosted by Jimmy Carr, with regular Countdown mathematician Rachel Riley looking after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1700360"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 117,
@@ -314,7 +401,36 @@
           "type": "conundrum",
           "selection": "USEDORGAN"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1697823,
+        "url": "https://www.tvmaze.com/episodes/1697823/8-out-of-10-cats-does-countdown-18x06-harriet-kemsley-alan-carr-catherine-tate-adam-buxton",
+        "name": "S18E06 - Harriet Kemsley, Alan Carr, Catherine Tate, Adam Buxton",
+        "season": 18,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2019-08-30",
+        "airtime": "21:00",
+        "airstamp": "2019-08-30T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/523951.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/523951.jpg"
+        },
+        "summary": "<p>Sean Lock and Harriet Kemsley take on special guest team captain Alan Carr and Catherine Tate, while Adam Buxton joins Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1697823"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 118,
@@ -391,7 +507,36 @@
           "type": "conundrum",
           "selection": "OILYPANTS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1704512,
+        "url": "https://www.tvmaze.com/episodes/1704512/8-out-of-10-cats-does-countdown-18x07-katherine-ryan-joe-wilkinson-adam-riches",
+        "name": "S18E07 - Katherine Ryan, Joe Wilkinson, Adam Riches",
+        "season": 18,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2019-09-06",
+        "airtime": "21:00",
+        "airstamp": "2019-09-06T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/210/526046.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/526046.jpg"
+        },
+        "summary": "<p>Sean Lock and Katherine Ryan take on Jon Richardson and Joe Wilkinson in the classic words-and-numbers quiz, while Adam Riches as Sean Bean joins Susie Dent in Dictionary Corner. Hosted by Jimmy Carr, with regular Countdown mathematician Rachel Riley looking after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1704512"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 119,
@@ -468,7 +613,8 @@
           "type": "conundrum",
           "selection": "INSERTNUT"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 120,
@@ -545,7 +691,36 @@
           "type": "conundrum",
           "selection": "IDIOTANUS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1784107,
+        "url": "https://www.tvmaze.com/episodes/1784107/8-out-of-10-cats-does-countdown-19x01-harry-hill-rose-matafeo-alex-horne-and-the-horne-section",
+        "name": "S19E01 - Harry Hill, Rose Matafeo, Alex Horne and The Horne Section",
+        "season": 19,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2020-01-09",
+        "airtime": "21:00",
+        "airstamp": "2020-01-09T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/235/587850.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/235/587850.jpg"
+        },
+        "summary": "<p>Sean Lock and Harry Hill take on Jon Richardson and Rose Matafeo, while Alex Horne and the Horne Section join Susie Dent in Dictionary Corner. Hosted by Jimmy Carr with Rachel Riley looking after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1784107"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 121,
@@ -622,7 +797,36 @@
           "type": "conundrum",
           "selection": "NIPSHAPES"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1785448,
+        "url": "https://www.tvmaze.com/episodes/1785448/8-out-of-10-cats-does-countdown-19x02-joe-wilkinson-kiri-pritchard-mclean-the-brett-domino-trio",
+        "name": "S19E02 - Joe Wilkinson, Kiri Pritchard-McLean, The Brett Domino Trio",
+        "season": 19,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2020-01-16",
+        "airtime": "21:00",
+        "airstamp": "2020-01-16T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/236/590871.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/236/590871.jpg"
+        },
+        "summary": "<p>Sean Lock and Joe Wilkinson take on Jon Richardson and Kiri Pritchard-McLean. The Brett Domino Trio join Susie Dent in Dictionary Corner. Jimmy Carr hosts. Rachel Riley takes care of the numbers.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1785448"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 122,
@@ -699,7 +903,36 @@
           "type": "conundrum",
           "selection": "GROINTAPE"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1785449,
+        "url": "https://www.tvmaze.com/episodes/1785449/8-out-of-10-cats-does-countdown-19x03-richard-ayoade-katherine-ryan-david-odoherty",
+        "name": "S19E03 - Richard Ayoade, Katherine Ryan, David O'Doherty",
+        "season": 19,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2020-01-23",
+        "airtime": "21:00",
+        "airstamp": "2020-01-23T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/237/594108.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/237/594108.jpg"
+        },
+        "summary": "Richard Ayoade and Katherine Ryan join Sean Lock and Jon Richardson for the words-and-numbers game, while David O'Doherty joins Susie Dent in Dictionary Corner. Hosted by Jimmy Carr with Rachel Riley looking after the numbers and letters.",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1785449"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 123,
@@ -776,7 +1009,36 @@
           "type": "conundrum",
           "selection": "BAREMILES"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1785450,
+        "url": "https://www.tvmaze.com/episodes/1785450/8-out-of-10-cats-does-countdown-19x04-miles-jupp-sophie-duker-lee-and-dean",
+        "name": "S19E04 - Miles Jupp, Sophie Duker, Lee and Dean",
+        "season": 19,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2020-01-30",
+        "airtime": "21:00",
+        "airstamp": "2020-01-30T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/238/597476.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/238/597476.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Sean Lock and Miles Jupp take on Jon Richardson and Sophie Duker. Lee and Dean join Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1785450"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 124,
@@ -853,7 +1115,36 @@
           "type": "conundrum",
           "selection": "MINTYORAL"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1785451,
+        "url": "https://www.tvmaze.com/episodes/1785451/8-out-of-10-cats-does-countdown-19x05-kevin-bridges-victoria-coren-mitchell-spencer-jones",
+        "name": "S19E05 - Kevin Bridges, Victoria Coren Mitchell, Spencer Jones",
+        "season": 19,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2020-02-07",
+        "airtime": "21:00",
+        "airstamp": "2020-02-07T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/240/600680.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/240/600680.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Sean Lock and Kevin Bridges take on Jon Richardson and Victoria Coren Mitchell in the classic words-and-numbers quiz. Regular Countdown maths whizz Rachel Riley and words guru Susie Dent are on hand to adjudicate, with Susie joined in Dictionary Corner by Spencer Jones.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1785451"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 125,
@@ -930,7 +1221,36 @@
           "type": "conundrum",
           "selection": "BOREDWANK"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1785452,
+        "url": "https://www.tvmaze.com/episodes/1785452/8-out-of-10-cats-does-countdown-19x06-harriet-kemsley-chris-mccausland-nick-helm",
+        "name": "S19E06 - Harriet Kemsley, Chris McCausland, Nick Helm",
+        "season": 19,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2020-02-14",
+        "airtime": "21:00",
+        "airstamp": "2020-02-14T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/604348.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/604348.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Sean Lock and Harriet Kemsley take on Jon Richardson and Chris McCausland. Nick Helm is with Susie Dent in Dictionary Corner. Joe Wilkinson joins Rachel Riley at the numbers board.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1785452"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 126,
@@ -1007,7 +1327,36 @@
           "type": "conundrum",
           "selection": "DONGSWEAT"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1901637,
+        "url": "https://www.tvmaze.com/episodes/1901637/8-out-of-10-cats-does-countdown-20x01-joe-wilkinson-kerry-godliman-mr-swallow",
+        "name": "S20E01 - Joe Wilkinson, Kerry Godliman, Mr. Swallow",
+        "season": 20,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2020-07-31",
+        "airtime": "21:00",
+        "airstamp": "2020-07-31T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/267/669481.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/669481.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Sean Lock and Kerry Godliman take on Jon Richardson and Joe Wilkinson. With Susie Dent, Rachel Riley and Dictionary Corner guest Mr Swallow, aka Nick Mohammed.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1901637"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 127,
@@ -1084,7 +1433,36 @@
           "type": "conundrum",
           "selection": "TOMSBONER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1901638,
+        "url": "https://www.tvmaze.com/episodes/1901638/8-out-of-10-cats-does-countdown-20x02-tom-allen-rosie-jones-sean-bean",
+        "name": "S20E02 - Tom Allen, Rosie Jones, Sean Bean",
+        "season": 20,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2020-08-07",
+        "airtime": "21:00",
+        "airstamp": "2020-08-07T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/267/669480.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/669480.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Jon Richardson and Tom Allen take on Sean Lock and Rosie Jones. With Dictionary Corner guest Adam Riches as Sean Bean, plus experts Susie Dent and Rachel Riley.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1901638"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 128,
@@ -1161,7 +1539,36 @@
           "type": "conundrum",
           "selection": "EATINGFUR"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1901639,
+        "url": "https://www.tvmaze.com/episodes/1901639/8-out-of-10-cats-does-countdown-20x03-daisy-may-cooper-richard-ayoade-ivo-graham-adam-buxton-joe-wilkinson",
+        "name": "S20E03 - Daisy May Cooper, Richard Ayoade, Ivo Graham, Adam Buxton, Joe Wilkinson",
+        "season": 20,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2020-08-14",
+        "airtime": "21:00",
+        "airstamp": "2020-08-14T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/268/670965.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/268/670965.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Sean Lock and Daisy May Cooper take on Richard Ayoade and Ivo Graham. Adam Buxton joins Susie Dent in Dictionary Corner and Joe Wilkinson assists Rachel Riley.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1901639"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 129,
@@ -1238,7 +1645,8 @@
           "type": "conundrum",
           "selection": "MINCEPOLE"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 130,
@@ -1315,7 +1723,36 @@
           "type": "conundrum",
           "selection": "GETORGASM"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1999173,
+        "url": "https://www.tvmaze.com/episodes/1999173/8-out-of-10-cats-does-countdown-21x01-katherine-ryan-joe-lycett-johnny-vegas-christopher-bliss",
+        "name": "S21E01 - Katherine Ryan, Joe Lycett, Johnny Vegas, Christopher Bliss",
+        "season": 21,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2021-01-14",
+        "airtime": "21:00",
+        "airstamp": "2021-01-14T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 6.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/293/732594.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/732594.jpg"
+        },
+        "summary": "<p>Katherine Ryan and Joe Lycett take on Johnny Vegas and Sean Lock in the words-and-numbers game, while would-be novelist Christopher Bliss joins Susie Dent in Dictionary Corner. Hosted by Jimmy Carr with Rachel Riley looking after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1999173"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 131,
@@ -1392,7 +1829,36 @@
           "type": "conundrum",
           "selection": "IDEALSNOG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1999175,
+        "url": "https://www.tvmaze.com/episodes/1999175/8-out-of-10-cats-does-countdown-21x02-paul-foot-angela-barnes-john-cooper-clarke",
+        "name": "S21E02 - Paul Foot, Angela Barnes, John Cooper Clarke",
+        "season": 21,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2021-01-21",
+        "airtime": "21:00",
+        "airstamp": "2021-01-21T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/293/734343.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/734343.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game of words and numbers, with Rachel Riley and Susie Dent. Sean Lock and Paul Foot play against Jon Richardson and Angela Barnes while John Cooper Clarke joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1999175"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 132,
@@ -1469,7 +1935,36 @@
           "type": "conundrum",
           "selection": "UNCLETART"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 1999176,
+        "url": "https://www.tvmaze.com/episodes/1999176/8-out-of-10-cats-does-countdown-21x03-harriet-kemsley-joe-lycett-mat-ewins",
+        "name": "S21E03 - Harriet Kemsley, Joe Lycett, Mat Ewins",
+        "season": 21,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2021-01-28",
+        "airtime": "21:00",
+        "airstamp": "2021-01-28T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/293/734344.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/734344.jpg"
+        },
+        "summary": "<p>Sean Lock and Harriet Kemsley take on Jon Richardson and Joe Lycett in the words-and-numbers game, while Mat Ewins joins Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1999176"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 133,
@@ -1546,7 +2041,36 @@
           "type": "conundrum",
           "selection": "BALLSERUM"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2013569,
+        "url": "https://www.tvmaze.com/episodes/2013569/8-out-of-10-cats-does-countdown-21x04-sara-pascoe-richard-ayoade-nick-helm",
+        "name": "S21E04 - Sara Pascoe, Richard Ayoade, Nick Helm",
+        "season": 21,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2021-02-04",
+        "airtime": "21:00",
+        "airstamp": "2021-02-04T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738859.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738859.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game show mash-up, with Rachel Riley and Susie Dent. Jon Richardson and Sara Pascoe take on Sean Lock and Richard Ayoade. Nick Helm joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2013569"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 134,
@@ -1610,7 +2134,36 @@
           "type": "conundrum",
           "selection": "PENISTOUR"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2021293,
+        "url": "https://www.tvmaze.com/episodes/2021293/8-out-of-10-cats-does-countdown-21x05-lucy-beaumont-roisin-conaty-joe-wilkinson-bec-hill",
+        "name": "S21E05 - Lucy Beaumont, Roisin Conaty, Joe Wilkinson, Bec Hill",
+        "season": 21,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2021-02-11",
+        "airtime": "21:00",
+        "airstamp": "2021-02-11T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/296/740979.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/296/740979.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game show mash-up, with Rachel Riley and Susie Dent. Jon Richardson and Lucy Beaumont take on Roisin Conaty and Joe Wilkinson in the comedy words-and-numbers game, while Bec Hill joins Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2021293"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 135,
@@ -1687,7 +2240,36 @@
           "type": "conundrum",
           "selection": "SEEBRATIT"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2024050,
+        "url": "https://www.tvmaze.com/episodes/2024050/8-out-of-10-cats-does-countdown-21x06-joe-wilkinson-lee-mack-katherine-ryan-the-brett-domino-trio",
+        "name": "S21E06 - Joe Wilkinson, Lee Mack, Katherine Ryan, The Brett Domino Trio",
+        "season": 21,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2021-02-18",
+        "airtime": "21:00",
+        "airstamp": "2021-02-18T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/297/743250.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/743250.jpg"
+        },
+        "summary": "<p>Jon Richardson and Joe Wilkinson take on Lee Mack and Katherine Ryan in the comedy words-and-numbers game, while The Brett Domino Trio join Susie Dent in Dictionary Corner. Hosted by Jimmy Carr, with Rachel Riley looking after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2024050"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 136,
@@ -1764,7 +2346,8 @@
           "type": "conundrum",
           "selection": "GIFTORNIP"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 137,
@@ -1828,7 +2411,36 @@
           "type": "conundrum",
           "selection": "IFEELCRAP"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2240649,
+        "url": "https://www.tvmaze.com/episodes/2240649/8-out-of-10-cats-does-countdown-22x01-roisin-conaty-kiri-pritchard-mclean-rob-beckett-huge-davies",
+        "name": "S22E01 - Roisin Conaty, Kiri Pritchard-McLean, Rob Beckett, Huge Davies",
+        "season": 22,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2022-01-07",
+        "airtime": "21:00",
+        "airstamp": "2022-01-07T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/397/994084.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/994084.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Roisin Conaty and Kiri Pritchard-McLean take on Jon Richardson and Rob Beckett. Comedian Huge Davies is in Dictionary Corner. Regular <i>Countdown</i> mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2240649"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 138,
@@ -1905,7 +2517,36 @@
           "type": "conundrum",
           "selection": "DAMPPOOPS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2240653,
+        "url": "https://www.tvmaze.com/episodes/2240653/8-out-of-10-cats-does-countdown-22x02-jack-dee-tom-allen-judi-love-john-cooper-clarke",
+        "name": "S22E02 - Jack Dee, Tom Allen, Judi Love, John Cooper Clarke",
+        "season": 22,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2022-01-14",
+        "airtime": "21:00",
+        "airstamp": "2022-01-14T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/397/994087.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/994087.jpg"
+        },
+        "summary": "<p>Jack Dee and Tom Allen take on Jon Richardson and Judi Love. With Dr John Cooper Clarke.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2240653"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 139,
@@ -1982,7 +2623,36 @@
           "type": "conundrum",
           "selection": "MINGEPARP"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2240652,
+        "url": "https://www.tvmaze.com/episodes/2240652/8-out-of-10-cats-does-countdown-22x03-roisin-conaty-asim-chaudhry-josh-widdicombe-bill-bailey",
+        "name": "S22E03 - Roisin Conaty, Asim Chaudhry, Josh Widdicombe, Bill Bailey",
+        "season": 22,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2022-01-21",
+        "airtime": "21:00",
+        "airstamp": "2022-01-21T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/397/994089.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/994089.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts, as Roisin Conaty and Asim Chaudhry take on Jon Richardson and Josh Widdicombe. Bill Bailey is in Dictionary Corner. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2240652"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 140,
@@ -2059,7 +2729,36 @@
           "type": "conundrum",
           "selection": "LEESHARTS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2240654,
+        "url": "https://www.tvmaze.com/episodes/2240654/8-out-of-10-cats-does-countdown-22x04-lee-mack-joe-wilkinson-jessica-knappett-nigel-ng",
+        "name": "S22E04 - Lee Mack, Joe Wilkinson, Jessica Knappett, Nigel Ng",
+        "season": 22,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2022-01-28",
+        "airtime": "21:00",
+        "airstamp": "2022-01-28T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/397/994091.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/994091.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts, as Lee Mack and Joe Wilkinson take on Jon Richardson and Jessica Knappett. Comedian Nigel Ng is in Dictionary Corner. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2240654"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 141,
@@ -2136,7 +2835,36 @@
           "type": "conundrum",
           "selection": "BASHEDNUT"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2240651,
+        "url": "https://www.tvmaze.com/episodes/2240651/8-out-of-10-cats-does-countdown-22x05-sarah-millican-nish-kumar-maisie-adam-david-odoherty",
+        "name": "S22E05 - Sarah Millican, Nish Kumar, Maisie Adam, David O'Doherty",
+        "season": 22,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2022-02-04",
+        "airtime": "21:00",
+        "airstamp": "2022-02-04T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/397/994092.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/994092.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game show mash-up, with <i>Countdown</i> regulars Rachel Riley and Susie Dent. Sarah Millican and Nish Kumar take on Jon Richardson and Maisie Adam. David O'Doherty is in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2240651"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 142,
@@ -2213,7 +2941,36 @@
           "type": "conundrum",
           "selection": "RUDEDONGS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2274898,
+        "url": "https://www.tvmaze.com/episodes/2274898/8-out-of-10-cats-does-countdown-22x06-sean-lock-harry-hill-rosie-jones-nick-mohammed",
+        "name": "S22E06 - Sean Lock, Harry Hill, Rosie Jones, Nick Mohammed",
+        "season": 22,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2022-02-11",
+        "airtime": "21:00",
+        "airstamp": "2022-02-11T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/990014.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/990014.jpg"
+        },
+        "summary": "<p>In his final appearance the late Sean Lock is joined by Harry Hill as they take on Jon Richardson and Rosie Jones. Mr Swallow, aka Nick Mohammed, is in Dictionary Corner. Jimmy Carr hosts, while regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2274898"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 143,
@@ -2290,7 +3047,36 @@
           "type": "conundrum",
           "selection": "LUBEDNERD"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2362799,
+        "url": "https://www.tvmaze.com/episodes/2362799/8-out-of-10-cats-does-countdown-23x01-lucy-beaumont-richard-ayoade-joe-wilkinson-finlay-christie",
+        "name": "S23E01 - Lucy Beaumont, Richard Ayoade, Joe Wilkinson, Finlay Christie",
+        "season": 23,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2022-07-29",
+        "airtime": "21:00",
+        "airstamp": "2022-07-29T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/417/1044381.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/417/1044381.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a combination of the comedy panel show and the long-running words-and-numbers quiz, with Jon Richardson and Lucy Beaumont taking on Richard Ayoade and Joe Wilkinson. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, alongside Dictionary Corner guest Finlay Christie.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2362799"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 144,
@@ -2367,7 +3153,36 @@
           "type": "conundrum",
           "selection": "GONADUSER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2365436,
+        "url": "https://www.tvmaze.com/episodes/2365436/8-out-of-10-cats-does-countdown-23x02-alan-carr-harriet-kemsley-jonathan-ross-maisie-adam-huge-davies",
+        "name": "S23E02 - Alan Carr, Harriet Kemsley, Jonathan Ross, Maisie Adam, Huge Davies",
+        "season": 23,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2022-08-05",
+        "airtime": "21:00",
+        "airstamp": "2022-08-05T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/419/1048359.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/419/1048359.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts and regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate Alan Carr and Harriet Kemsley play against Jonathan Ross and Maisie Adam. Huge Davies is in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2365436"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 145,
@@ -2444,7 +3259,36 @@
           "type": "conundrum",
           "selection": "MOISTNERD"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2369432,
+        "url": "https://www.tvmaze.com/episodes/2369432/8-out-of-10-cats-does-countdown-23x03-jo-brand-joe-wilkinson-jamali-maddix-rachel-parris",
+        "name": "S23E03 - Jo Brand, Joe Wilkinson, Jamali Maddix, Rachel Parris",
+        "season": 23,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2022-08-12",
+        "airtime": "21:00",
+        "airstamp": "2022-08-12T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/419/1048360.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/419/1048360.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts and regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate as Jon Richardson and Jo Brand take on Joe Wilkinson and Jamali Maddix. Rachel Parris is in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2369432"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 146,
@@ -2521,7 +3365,36 @@
           "type": "conundrum",
           "selection": "WEALLFART"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2371865,
+        "url": "https://www.tvmaze.com/episodes/2371865/8-out-of-10-cats-does-countdown-23x04-richard-ayoade-sara-pascoe-chris-mccausland-morgana-robinson",
+        "name": "S23E04 - Richard Ayoade, Sara Pascoe, Chris McCausland, Morgana Robinson",
+        "season": 23,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2022-08-19",
+        "airtime": "21:00",
+        "airstamp": "2022-08-19T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/419/1048361.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/419/1048361.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the comedy words-and-numbers quiz as Richard Ayoade and Sara Pascoe take on Jon Richardson and Chris McCausland. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, aided by Morgana Robinson in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2371865"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 147,
@@ -2598,7 +3471,36 @@
           "type": "conundrum",
           "selection": "TALLPENIS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2375428,
+        "url": "https://www.tvmaze.com/episodes/2375428/8-out-of-10-cats-does-countdown-23x05-roisin-conaty-joe-wilkinson-nabil-abdulrashid-david-odoherty",
+        "name": "S23E05 - Roisin Conaty, Joe Wilkinson, Nabil Abdulrashid, David O'Doherty",
+        "season": 23,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2022-08-26",
+        "airtime": "21:00",
+        "airstamp": "2022-08-26T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512884.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512884.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the comedy words-and-numbers quiz as Roisin Conaty and Joe Wilkinson take on Jon Richardson and Nabil Abdulrashid. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, aided by David O'Doherty in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2375428"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 148,
@@ -2675,7 +3577,36 @@
           "type": "conundrum",
           "selection": "SHITFACED"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2375466,
+        "url": "https://www.tvmaze.com/episodes/2375466/8-out-of-10-cats-does-countdown-23x06-jonathan-ross-russell-kane-alan-carr-judi-love-josh-jones",
+        "name": "S23E06 - Jonathan Ross, Russell Kane, Alan Carr, Judi Love, Josh Jones",
+        "season": 23,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2022-09-02",
+        "airtime": "21:00",
+        "airstamp": "2022-09-02T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 6.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512885.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512885.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a combination of the comedy panel show and the long-running words and numbers quiz, with Jonathan Ross and Russell Kane taking on Alan Carr and Judi Love. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, while Josh Jones is in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2375466"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 149,
@@ -2752,7 +3683,8 @@
           "type": "conundrum",
           "selection": "TIREDSACK"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 150,
@@ -2829,7 +3761,36 @@
           "type": "conundrum",
           "selection": "SHAGINBIN"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2454583,
+        "url": "https://www.tvmaze.com/episodes/2454583/8-out-of-10-cats-does-countdown-24x01-jonathan-ross-joe-wilkinson-roisin-conaty-ahir-shah-catherine-cohen",
+        "name": "S24E01 - Jonathan Ross, Joe Wilkinson, Roisin Conaty, Ahir Shah, Catherine Cohen",
+        "season": 24,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2023-01-06",
+        "airtime": "21:00",
+        "airstamp": "2023-01-06T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/440/1101366.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/440/1101366.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game show mash-up, as Jonathan Ross and Joe Wilkinson take on Roisin Conaty and Ahir Shah. Catherine Cohen joins Susie Dent in Dictionary Corner, while Dr Anne-Marie Imafidon looks after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2454583"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 151,
@@ -2906,7 +3867,36 @@
           "type": "conundrum",
           "selection": "WANGDINER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2618287,
+        "url": "https://www.tvmaze.com/episodes/2618287/8-out-of-10-cats-does-countdown-24x02-sarah-millican-phil-wang-roisin-conaty-tom-allen-sam-campbell-joe-wilkinson",
+        "name": "S24E02 - Sarah Millican, Phil Wang, Roisin Conaty, Tom Allen, Sam Campbell, Joe Wilkinson",
+        "season": 24,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2023-08-11",
+        "airtime": "21:00",
+        "airstamp": "2023-08-11T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/495/1238915.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/495/1238915.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the game show mash-up, as Sarah Millican and Phil Wang take on Tom Allen and Roisin Conaty. Sam Campbell joins Susie Dent in Dictionary Corner, while Rachel Riley looks after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2618287"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 152,
@@ -2988,7 +3978,8 @@
           "type": "conundrum",
           "selection": "ANGELNUTS"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 153,
@@ -3065,7 +4056,36 @@
           "type": "conundrum",
           "selection": "LETMEDUMP"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2728504,
+        "url": "https://www.tvmaze.com/episodes/2728504/8-out-of-10-cats-does-countdown-25x01-harriet-kemsley-lee-mack-munya-chawawa-david-odoherty",
+        "name": "S25E01 - Harriet Kemsley, Lee Mack, Munya Chawawa, David O'Doherty",
+        "season": 25,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2024-01-12",
+        "airtime": "21:00",
+        "airstamp": "2024-01-12T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512874.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512874.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the anarchic letters and numbers mash-up, with <i>Countdown</i> regulars Susie Dent and Rachel Riley. Jon Richardson and Harriet Kemsley take on Lee Mack and Munya Chawawa, while David O'Doherty joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2728504"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 154,
@@ -3142,7 +4162,36 @@
           "type": "conundrum",
           "selection": "POOCRATER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2728505,
+        "url": "https://www.tvmaze.com/episodes/2728505/8-out-of-10-cats-does-countdown-25x02-joe-wilkinson-rob-beckett-sarah-millican-jamali-maddix-glenn-moore",
+        "name": "S25E02 - Joe Wilkinson, Rob Beckett, Sarah Millican, Jamali Maddix, Glenn Moore",
+        "season": 25,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2024-01-19",
+        "airtime": "21:00",
+        "airstamp": "2024-01-19T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512875.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512875.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the anarchic letters and numbers mash-up, with <i>Countdown</i> regulars Susie Dent and Rachel Riley. Joe Wilkinson and Rob Beckett take on Sarah Millican and Jamali Maddix, while Glenn Moore joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2728505"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 155,
@@ -3219,7 +4268,36 @@
           "type": "conundrum",
           "selection": "WANGRIDER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2728506,
+        "url": "https://www.tvmaze.com/episodes/2728506/8-out-of-10-cats-does-countdown-25x03-rob-brydon-katherine-parkinson-babatunde-aleshe-adam-buxton-joe-wilkinson",
+        "name": "S25E03 - Rob Brydon, Katherine Parkinson, Babatunde Aléshé, Adam Buxton, Joe Wilkinson",
+        "season": 25,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2024-01-26",
+        "airtime": "21:00",
+        "airstamp": "2024-01-26T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512876.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512876.jpg"
+        },
+        "summary": "<p>Rob Brydon and Katherine Parkinson take on Jon Richardson and Babatunde Aléshé. Adam Buxton joins Susie in Dictionary Corner, while Joe Wilkinson helps Rachel with the numbers in his own inimitable fashion.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2728506"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 156,
@@ -3296,7 +4374,36 @@
           "type": "conundrum",
           "selection": "SNOGMAYBE"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2728507,
+        "url": "https://www.tvmaze.com/episodes/2728507/8-out-of-10-cats-does-countdown-25x04-rhod-gilbert-sarah-millican-judi-love-joe-lycett-jazz-emu",
+        "name": "S25E04 - Rhod Gilbert, Sarah Millican, Judi Love, Joe Lycett, Jazz Emu",
+        "season": 25,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2024-02-02",
+        "airtime": "21:00",
+        "airstamp": "2024-02-02T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 6.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512877.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512877.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the words and numbers game show mash-up, with <i>Countdown</i> regulars Rachel Riley and Susie Dent. Rhod Gilbert and Sarah Millican take on Judi Love and Joe Lycett, while Jazz Emu joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2728507"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 157,
@@ -3373,7 +4480,36 @@
           "type": "conundrum",
           "selection": "CALMSHITE"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2754988,
+        "url": "https://www.tvmaze.com/episodes/2754988/8-out-of-10-cats-does-countdown-25x05-asim-chaudhry-joe-wilkinson-roisin-conaty-lucy-pearman",
+        "name": "S25E05 - Asim Chaudhry, Joe Wilkinson, Roisin Conaty, Lucy Pearman",
+        "season": 25,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2024-02-09",
+        "airtime": "21:00",
+        "airstamp": "2024-02-09T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512878.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512878.jpg"
+        },
+        "summary": "<p>Jimmy Carr presents as Jon Richardson and Asim Chaudhry take on Joe Wilkinson and Roisin Conaty. Lucy Pearman is in Dictionary Corner with Susie Dent, while Rachel Riley looks after the numbers and letters.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2754988"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 158,
@@ -3450,7 +4586,36 @@
           "type": "conundrum",
           "selection": "ISHAGNERD"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2944708,
+        "url": "https://www.tvmaze.com/episodes/2944708/8-out-of-10-cats-does-countdown-26x01-dan-tiernan-richard-ayoade-katherine-ryan-john-kearns",
+        "name": "S26E01 - Dan Tiernan, Richard Ayoade, Katherine Ryan, John Kearns",
+        "season": 26,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2024-07-19",
+        "airtime": "21:00",
+        "airstamp": "2024-07-19T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512869.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512869.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and the words-and-numbers quiz, as Jon Richardson and Dan Tiernan take on Richard Ayoade and Katherine Ryan. Mathematician Rachel Riley looks after the letters and numbers, while John Kearns joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2944708"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 159,
@@ -3527,7 +4692,36 @@
           "type": "conundrum",
           "selection": "GOINGPISS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2944709,
+        "url": "https://www.tvmaze.com/episodes/2944709/8-out-of-10-cats-does-countdown-26x02-sarah-millican-tom-allen-joe-wilkinson-rosie-jones-mr-swallow",
+        "name": "S26E02 - Sarah Millican, Tom Allen, Joe Wilkinson, Rosie Jones, Mr. Swallow",
+        "season": 26,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2024-07-26",
+        "airtime": "21:00",
+        "airstamp": "2024-07-26T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512870.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512870.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and the words-and-numbers quiz, as Sarah Millican and Tom Allen take on Joe Wilkinson and Rosie Jones. Mathematician Rachel Riley looks after the letters and numbers, while Mr Swallow joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2944709"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 160,
@@ -3604,7 +4798,36 @@
           "type": "conundrum",
           "selection": "LIMPGROIN"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2952987,
+        "url": "https://www.tvmaze.com/episodes/2952987/8-out-of-10-cats-does-countdown-26x03-alan-carr-munya-chawawa-sarah-millican-gary-delaney-don-rodolfo",
+        "name": "S26E03 - Alan Carr, Munya Chawawa, Sarah Millican, Gary Delaney, Don Rodolfo",
+        "season": 26,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2024-08-02",
+        "airtime": "21:00",
+        "airstamp": "2024-08-02T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512871.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512871.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and the words-and-numbers quiz, as Alan Carr and Munya Chawawa take on Sarah Millican and Gary Delaney. Mathematician Rachel Riley looks after the letters and numbers, while Don Rodolfo - aka Ciarán Dowd - joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2952987"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 161,
@@ -3694,7 +4917,36 @@
           "type": "conundrum",
           "selection": "IDONEDUMP"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2956159,
+        "url": "https://www.tvmaze.com/episodes/2956159/8-out-of-10-cats-does-countdown-26x04-katherine-ryan-richard-ayoade-laura-smyth-mat-ewins",
+        "name": "S26E04 - Katherine Ryan, Richard Ayoade, Laura Smyth, Mat Ewins",
+        "season": 26,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2024-08-09",
+        "airtime": "21:00",
+        "airstamp": "2024-08-09T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512872.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512872.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and the words-and-numbers quiz, as Jon Richardson and Katherine Ryan take on Richard Ayoade and Laura Smyth. Mathematician Rachel Riley looks after the letters and numbers, while Mat Ewins joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2956159"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 162,
@@ -3771,7 +5023,36 @@
           "type": "conundrum",
           "selection": "WEALLPARP"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 2968655,
+        "url": "https://www.tvmaze.com/episodes/2968655/8-out-of-10-cats-does-countdown-26x05-richard-ayoade-kemah-bob-jonathan-ross-maisie-adam-sarah-keyworth",
+        "name": "S26E05 - Richard Ayoade, Kemah Bob, Jonathan Ross, Maisie Adam, Sarah Keyworth",
+        "season": 26,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2024-08-16",
+        "airtime": "21:00",
+        "airstamp": "2024-08-16T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512873.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512873.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Richard Ayoade and Kemah Bob take on Jonathan Ross and Maisie Adam in the classic words and numbers quiz. Sarah Keyworth joins Susie Dent in Dictionary Corner, while Dr Anne-Marie Imafidon fills in for Rachel Riley looking after the letters and numbers.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2968655"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 163,
@@ -3848,7 +5129,36 @@
           "type": "conundrum",
           "selection": "MINGERUST"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3085338,
+        "url": "https://www.tvmaze.com/episodes/3085338/8-out-of-10-cats-does-countdown-27x01-sarah-millican-josh-widdicombe-alan-carr-thanyia-moore-the-delightful-sausage",
+        "name": "S27E01 - Sarah Millican, Josh Widdicombe, Alan Carr, Thanyia Moore, The Delightful Sausage",
+        "season": 27,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-01-03",
+        "airtime": "21:00",
+        "airstamp": "2025-01-03T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512862.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512862.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and the words-and-numbers quiz, as Sarah Millican and Josh Widdicombe take on Alan Carr and Thanyia Moore. Mathematician Rachel Riley looks after the letters and numbers, while comedy duo The Delightful Sausage join lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3085338"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 164,
@@ -3925,7 +5235,36 @@
           "type": "conundrum",
           "selection": "RINSEWANG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3101197,
+        "url": "https://www.tvmaze.com/episodes/3101197/8-out-of-10-cats-does-countdown-27x02-rosie-jones-joe-wilkinson-phil-wang-john-cooper-clarke",
+        "name": "S27E02 - Rosie Jones, Joe Wilkinson, Phil Wang, John Cooper Clarke",
+        "season": 27,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-01-10",
+        "airtime": "21:00",
+        "airstamp": "2025-01-10T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512863.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512863.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and words-and-numbers quiz, as Jon Richardson and Rosie Jones take on Joe Wilkinson and Phil Wang. Mathematician Rachel Riley looks after the letters and numbers, while Dr John Cooper Clarke joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3101197"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 165,
@@ -4002,7 +5341,36 @@
           "type": "conundrum",
           "selection": "THICKWANG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3107819,
+        "url": "https://www.tvmaze.com/episodes/3107819/8-out-of-10-cats-does-countdown-27x03-guz-khan-katherine-ryan-joe-wilkinson-alasdair-beckett-king",
+        "name": "S27E03 - Guz Khan, Katherine Ryan, Joe Wilkinson, Alasdair Beckett-King",
+        "season": 27,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-01-17",
+        "airtime": "21:00",
+        "airstamp": "2025-01-17T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512864.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512864.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a hybrid of the comedy panel show and words-and-numbers quiz, as on Jon Richardson and Guz Khan take on guest captain Katherine Ryan and Joe Wilkinson. Mathematician Rachel Riley looks after the letters and numbers, while Alasdair Beckett-King joins lexicographer Susie Dent in Dictionary Corner</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3107819"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 166,
@@ -4079,7 +5447,36 @@
           "type": "conundrum",
           "selection": "PENISROTA"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3116760,
+        "url": "https://www.tvmaze.com/episodes/3116760/8-out-of-10-cats-does-countdown-27x04-danny-dyer-big-zuu-helen-bauer-mat-ewins",
+        "name": "S27E04 - Danny Dyer, Big Zuu, Helen Bauer, Mat Ewins",
+        "season": 27,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-01-24",
+        "airtime": "21:00",
+        "airstamp": "2025-01-24T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 4.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512865.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512865.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a combination of the comedy panel show and the long-running words-and-numbers quiz, with Jon Richardson and Big Zuu taking on Danny Dyer and Helen Bauer. Mathematician Rachel Riley looks after the letters and numbers, while Mat Ewins joins lexicographer Susie Dent in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3116760"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 167,
@@ -4156,7 +5553,36 @@
           "type": "conundrum",
           "selection": "NICEARSES"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3116763,
+        "url": "https://www.tvmaze.com/episodes/3116763/8-out-of-10-cats-does-countdown-27x05-richard-ayoade-amy-gledhill-guz-khan-sam-campbell",
+        "name": "S27E05 - Richard Ayoade, Amy Gledhill, Guz Khan, Sam Campbell",
+        "season": 27,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-01-31",
+        "airtime": "21:00",
+        "airstamp": "2025-01-31T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512866.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512866.jpg"
+        },
+        "summary": "<p>The new series of Cats Does Countdown continues. Jimmy Carr hosts as Jon Richardson and Amy Gledhill take on Richard Ayoade and Guz Khan. Sam Campbell joins Susie Dent in Dictionary Corner. With Rachel Riley.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3116763"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 168,
@@ -4233,7 +5659,36 @@
           "type": "conundrum",
           "selection": "TOMFARTED"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3308266,
+        "url": "https://www.tvmaze.com/episodes/3308266/8-out-of-10-cats-does-countdown-28x01-richard-ayoade-harriet-dyer-bob-mortimer-tom-allen-ian-smith",
+        "name": "S28E01 - Richard Ayoade, Harriet Dyer, Bob Mortimer, Tom Allen, Ian Smith",
+        "season": 28,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2025-07-25",
+        "airtime": "21:00",
+        "airstamp": "2025-07-25T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 4.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512848.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512848.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts a combination of the comedy panel show and the long-running words and numbers quiz, with Richard Ayoade and Harriet Dyer taking on Bob Mortimer and Tom Allen. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, Joe Wilkinson drops in and Ian Smith joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3308266"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 169,
@@ -4310,7 +5765,36 @@
           "type": "conundrum",
           "selection": "ASSREGION"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3314597,
+        "url": "https://www.tvmaze.com/episodes/3314597/8-out-of-10-cats-does-countdown-28x02-joe-wilkinson-josh-widdicombe-rhod-gilbert-thaniya-moore-joe-kent-walters",
+        "name": "S28E02 - Joe Wilkinson, Josh Widdicombe, Rhod Gilbert, Thaniya Moore, Joe Kent-Walters",
+        "season": 28,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2025-08-01",
+        "airtime": "21:00",
+        "airstamp": "2025-08-01T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512849.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512849.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts as Joe Wilkinson and Josh Widdicombe take on Rhod Gilbert and Thaniya Moore in the long-running-words and numbers quiz. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, while alternative comedian Joe Kent-Walters (aka Frankie Monroe) sits alongside Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3314597"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 170,
@@ -4387,7 +5871,36 @@
           "type": "conundrum",
           "selection": "NICERSHAG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3320303,
+        "url": "https://www.tvmaze.com/episodes/3320303/8-out-of-10-cats-does-countdown-28x03-joe-wilkinson-alex-brooker-kevin-bridges-judi-love-peter-serafinowicz",
+        "name": "S28E03 - Joe Wilkinson, Alex Brooker, Kevin Bridges, Judi Love, Peter Serafinowicz",
+        "season": 28,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2025-08-08",
+        "airtime": "21:00",
+        "airstamp": "2025-08-08T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512850.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512850.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts the comedy game show with Joe Wilkinson and Alex Brooker taking on Kevin Bridges and Judi Love. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, with Peter Serafinowicz in the guise of Brian Butterfield joining Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3320303"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 171,
@@ -4464,7 +5977,36 @@
           "type": "conundrum",
           "selection": "LIKESWANG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3326267,
+        "url": "https://www.tvmaze.com/episodes/3326267/8-out-of-10-cats-does-countdown-28x04-roisin-conaty-phil-wang-joe-wilkinson-lou-sanders-david-odoherty",
+        "name": "S28E04 - Roisin Conaty, Phil Wang, Joe Wilkinson, Lou Sanders, David O'Doherty",
+        "season": 28,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2025-08-15",
+        "airtime": "21:00",
+        "airstamp": "2025-08-15T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512851.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512851.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts, as Roisin Conaty and Phil Wang compete against Joe Wilkinson and Lou Sanders. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, while David O'Doherty joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3326267"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 172,
@@ -4541,7 +6083,36 @@
           "type": "conundrum",
           "selection": "DEEPLOVER"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3333230,
+        "url": "https://www.tvmaze.com/episodes/3333230/8-out-of-10-cats-does-countdown-28x05-lucy-beaumont-rob-brydon-joe-wilkinson-huge-davies",
+        "name": "S28E05 - Lucy Beaumont, Rob Brydon, Joe Wilkinson, Huge Davies",
+        "season": 28,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2025-08-22",
+        "airtime": "21:00",
+        "airstamp": "2025-08-22T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": null
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/605/1512852.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1512852.jpg"
+        },
+        "summary": "<p>Jimmy Carr hosts, inviting Jon Richardson and Lucy Beaumont to compete against Rob Brydon and Joe Wilkinson. Regular Countdown mathematician Rachel Riley and lexicographer Susie Dent are on hand to adjudicate, while Huge Davies joins Susie in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3333230"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 173,
@@ -4618,7 +6189,8 @@
           "type": "conundrum",
           "selection": "SORECLAUS"
         }
-      ]
+      ],
+      "tv_episode": null
     },
     {
       "episode": 174,
@@ -4695,7 +6267,33 @@
           "type": "conundrum",
           "selection": "FREEGROIN"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3519899,
+        "url": "https://www.tvmaze.com/episodes/3519899/8-out-of-10-cats-does-countdown-29x01-judi-love-katherine-parkinson-spencer-jones",
+        "name": "S29E01 - Judi Love, Katherine Parkinson, Spencer Jones",
+        "season": 29,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-01-16",
+        "airtime": "21:00",
+        "airstamp": "2026-01-16T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8
+        },
+        "image": null,
+        "summary": "<p>Jimmy Carr hosts the comedy words-and-numbers quiz, with panellists putting their mental agility to the test. Jon Richardson and Judi Love take on Rob Beckett and Katherine Parkinson. Spencer Jones joins Susie Dent in Dictionary Corner, while maths whizz Rachel Riley looks after the numbers.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3519899"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 175,
@@ -4772,7 +6370,33 @@
           "type": "conundrum",
           "selection": "NUDECHATS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3527507,
+        "url": "https://www.tvmaze.com/episodes/3527507/8-out-of-10-cats-does-countdown-29x02-roisin-conaty-kiell-smith-bynoe-lou-wall-sam-nicoresti",
+        "name": "S29E02 - Roisin Conaty, Kiell Smith-Bynoe, Lou Wall, Sam Nicoresti",
+        "season": 29,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2026-01-23",
+        "airtime": "21:00",
+        "airstamp": "2026-01-23T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 5.5
+        },
+        "image": null,
+        "summary": "<p>Jimmy Carr hosts the comedy words-and-numbers quiz, with Jon Richardson and Roisin Conaty taking on new team captain Rob Beckett and Kiell Smith-Bynoe. <i>Countdown</i> regulars Rachel Riley and Susie Dent are on hand to adjudicate, with Susie joined by Lou Wall in Dictionary Corner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3527507"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 176,
@@ -4849,7 +6473,33 @@
           "type": "conundrum",
           "selection": "SICKPENIS"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3527514,
+        "url": "https://www.tvmaze.com/episodes/3527514/8-out-of-10-cats-does-countdown-29x03-judi-love-miles-jupp-roisin-and-chiara-dane-buckley",
+        "name": "S29E03 - Judi Love, Miles Jupp, Róisín and Chiara, Dane Buckley",
+        "season": 29,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2026-01-30",
+        "airtime": "21:00",
+        "airstamp": "2026-01-30T21:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": null
+        },
+        "image": null,
+        "summary": "<p>Jimmy Carr hosts, with Jon Richardson and Judi Love taking on Rob Beckett and Miles Jupp. Comedy duo Róisín and Chiara join Susie Dent in Dictionary Corner. Rachel Riley's on the numbers and letters. And Dane Buckley parachutes in to help the losing team.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3527514"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
     },
     {
       "episode": 177,
@@ -4931,7 +6581,67 @@
           "type": "conundrum",
           "selection": "ATIREDTUG"
         }
-      ]
+      ],
+      "tv_episode": {
+        "id": 3686554,
+        "url": "https://www.tvmaze.com/episodes/3686554/8-out-of-10-cats-does-countdown-30x01-harriet-kemsley-richard-ayoade-nick-mohammed-joe-wilkinson",
+        "name": "S30E01 - Harriet Kemsley, Richard Ayoade, Nick Mohammed, Joe Wilkinson",
+        "season": 30,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2026-07-31",
+        "airtime": "21:00",
+        "airstamp": "2026-07-31T20:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 6
+        },
+        "image": null,
+        "summary": "<p>Jimmy Carr hosts with Susie Dent and Rachel Riley, as Jon Richardson and Harriet Kemsley take on Rob Beckett and Richard Ayoade. Plus: special guests Nick Mohammed and Joe Wilkinson.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/3686554"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/884",
+            "name": "8 Out of 10 Cats Does Countdown"
+          }
+        }
+      }
+    }
+  ],
+  "tv_metadata_source": "TVMaze episode data",
+  "tv_metadata_matched": 58,
+  "tv_metadata_unmatched": [
+    {
+      "episode": 119,
+      "date_from_wiki_summary": "2019-12-23",
+      "reason": "No unique TVMaze episode matched this broadcast date."
+    },
+    {
+      "episode": 129,
+      "date_from_wiki_summary": "2020-12-21",
+      "reason": "No unique TVMaze episode matched this broadcast date."
+    },
+    {
+      "episode": 136,
+      "date_from_wiki_summary": "2021-12-24",
+      "reason": "No unique TVMaze episode matched this broadcast date."
+    },
+    {
+      "episode": 149,
+      "date_from_wiki_summary": "2022-12-23",
+      "reason": "No unique TVMaze episode matched this broadcast date."
+    },
+    {
+      "episode": 152,
+      "date_from_wiki_summary": "2023-12-21",
+      "reason": "No unique TVMaze episode matched this broadcast date."
+    },
+    {
+      "episode": 173,
+      "date_from_wiki_summary": "2025-12-24",
+      "reason": "No unique TVMaze episode matched this broadcast date."
     }
   ]
 }
