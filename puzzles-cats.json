@@ -614,7 +614,13 @@
           "selection": "INSERTNUT"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S19 Christmas Special",
+        "season": 19,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 120,
@@ -1646,7 +1652,13 @@
           "selection": "MINCEPOLE"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S20 Christmas Special",
+        "season": 20,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 130,
@@ -2347,7 +2359,13 @@
           "selection": "GIFTORNIP"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S21 Christmas Special",
+        "season": 21,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 137,
@@ -3684,7 +3702,13 @@
           "selection": "TIREDSACK"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S22 Christmas Special",
+        "season": 22,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 150,
@@ -3979,7 +4003,13 @@
           "selection": "ANGELNUTS"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S23 Christmas Special",
+        "season": 23,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 153,
@@ -6190,7 +6220,13 @@
           "selection": "SORECLAUS"
         }
       ],
-      "tv_episode": null
+      "tv_episode": {
+        "name": "S24 Christmas Special",
+        "season": 24,
+        "type": "christmas_special",
+        "airdate": null,
+        "metadata_note": "Season-level Christmas special label inferred from episode context; exact TVMaze match unavailable."
+      }
     },
     {
       "episode": 174,
@@ -6611,37 +6647,7 @@
     }
   ],
   "tv_metadata_source": "TVMaze episode data",
-  "tv_metadata_matched": 58,
-  "tv_metadata_unmatched": [
-    {
-      "episode": 119,
-      "date_from_wiki_summary": "2019-12-23",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    },
-    {
-      "episode": 129,
-      "date_from_wiki_summary": "2020-12-21",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    },
-    {
-      "episode": 136,
-      "date_from_wiki_summary": "2021-12-24",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    },
-    {
-      "episode": 149,
-      "date_from_wiki_summary": "2022-12-23",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    },
-    {
-      "episode": 152,
-      "date_from_wiki_summary": "2023-12-21",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    },
-    {
-      "episode": 173,
-      "date_from_wiki_summary": "2025-12-24",
-      "reason": "No unique TVMaze episode matched this broadcast date."
-    }
-  ]
+  "tv_metadata_matched": 64,
+  "tv_metadata_unmatched": [],
+  "tv_metadata_notes": "Six Christmas specials use season-level labels because exact TVMaze episode metadata could not be uniquely matched by broadcast date. Labels identify the season, not a verified TVMaze episode number."
 }
