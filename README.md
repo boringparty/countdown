@@ -14,29 +14,29 @@ rename to index.html
 
 <!-- CSV_START -->
 ```csv
-Date: 21/10/2026
+Date: 22/10/2026
 Guest: Mark Radcliffe
-Max: 146
+Max: 143
 
 ROUND,S,E,L,E,C,T,I,O,N,TARGET,ANSWERS
-L01,R,S,R,M,I,E,O,I,O,,"ROOMIER, ROOMIER, ROOMIES"
-L02,T,L,E,O,S,U,R,A,P,,"POUTERS, SPORULATE"
-N01,100,75,25,50,7,8,,,,311,
-T01,"She owns a little ship that sells this, that and the other.",
-T01,O,W,N,S,T,H,A,T,,,WHATNOTS
-L03,T,E,O,I,C,T,L,O,C,,TOILET
-L04,T,S,T,A,U,A,E,N,L,,"TALENTS, SULTANATE"
-N02,50,4,9,9,7,3,,,,394,
-L05,P,R,W,A,I,O,I,N,O,,"PRAWN, PIANO"
-L06,H,G,E,I,P,O,L,M,K,,"PHLEGM, PHLEGM, HOGLIKE"
-N03,75,3,7,6,10,9,,,,679,
-T02,"Ray met her in Soho, then she worked as this in Brazil.",
-T02,H,O,W,L,R,I,G,S,,,SHOWGIRL
-L07,N,D,N,E,A,E,T,O,E,,"DONATE, NEATENED"
-L08,R,A,M,E,C,U,A,Y,N,,"CREAMY, NUMERACY"
-L09,R,F,E,I,A,S,G,R,O,,"FORAGES, FORAGERS"
-L10,V,S,P,S,A,E,I,E,D,,PASSIVE
-N04,25,10,3,2,6,3,,,,947,
-C01,M,O,U,T,H,E,A,S,E,,
+L01,T,P,E,U,A,S,N,I,P,,"PETUNIAS, PANTIES"
+L02,U,M,I,U,G,O,I,R,L,,"MOGUL, GIRL"
+N01,25,10,3,7,6,8,,,,571,
+T01,You can take back your words with this sort of pen.,
+T01,B,A,R,L,E,A,S,E,,,ERASABLE
+L03,U,T,N,E,U,L,E,O,D,,"TOLUENE, UNTOLD"
+L04,C,D,G,U,E,A,N,E,O,,"DECAGON, DEACON, ENCAGED"
+N02,25,9,4,9,10,3,,,,584,
+L05,T,C,R,E,A,S,E,I,R,,"TRACERIES, CREATES"
+L06,A,E,H,I,D,S,O,A,T,,"TAIHOAED, TOADIES"
+N03,75,7,4,7,8,2,,,,750,
+T02,This sort of personality can rub you up the wrong way.,
+T02,B,E,A,R,V,I,S,A,,,ABRASIVE
+L07,E,O,S,I,P,E,D,I,Z,,"EPISODE, DEPOSE, IODIZES"
+L08,T,S,W,E,O,A,R,S,I,,"ROASTIES, SORTIES, WAITRESS"
+L09,E,U,P,T,E,A,O,N,R,,"AUTOPEN, NEATER, OPERATE, PRONATE"
+L10,E,I,O,S,R,N,L,A,O,,"EROSIONAL, LOANERS"
+N04,50,7,2,7,3,9,,,,727,
+C01,R,E,N,T,A,L,D,I,G,,TREADLING
 ```
 <!-- CSV_END -->
