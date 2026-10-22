@@ -1,0 +1,4937 @@
+{
+  "source": "Apterous Wiki",
+  "range": {
+    "first_episode": 114,
+    "last_episode": 177
+  },
+  "scraped_at": "2026-10-22T06:34:56+00:00",
+  "episode_count": 64,
+  "failures": [],
+  "episodes": [
+    {
+      "episode": 114,
+      "title": "Episode Cats114",
+      "url": "https://wiki.apterous.org/Episode_Cats114",
+      "summary": "Episode Cats114 , billed as 8 Out of 10 Cats Does Countdown Series 18, Episode 3 in the UK and Series 12, Episode 5 in international markets was a special episode broadcast on 9 August 2019, as part of 8 Out of 10 Cats Does Countdown Series 18 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "NETSOREFI"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            4,
+            2,
+            10,
+            9,
+            5
+          ],
+          "target": 517
+        },
+        {
+          "type": "teaser",
+          "selection": "CAGENIPS",
+          "clue": "Get them out.",
+          "answer": "ESCAPING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "NARELUVDO"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            3,
+            9,
+            7,
+            2,
+            7
+          ],
+          "target": 555
+        },
+        {
+          "type": "teaser",
+          "selection": "SHOWPORK",
+          "clue": "Make sure you've got wood.",
+          "answer": "WORKSHOP"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "SBITRCSUE"
+        },
+        {
+          "type": "teaser",
+          "selection": "LUBEKITS",
+          "clue": "The bigger, the better.",
+          "answer": "BULKIEST"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TANLIPSAC"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "PERTGONAD"
+        }
+      ]
+    },
+    {
+      "episode": 115,
+      "title": "Episode Cats115",
+      "url": "https://wiki.apterous.org/Episode_Cats115",
+      "summary": "Episode Cats115 , billed as 8 Out of 10 Cats Does Countdown Series 18, Episode 4 in the UK and Series 12, Episode 6 in international markets was a special episode broadcast on 16 August 2019, as part of 8 Out of 10 Cats Does Countdown Series 18 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ICTROAENG"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            9,
+            6,
+            6,
+            5
+          ],
+          "target": 949
+        },
+        {
+          "type": "teaser",
+          "selection": "ODDPILES",
+          "clue": "That doesn't feel right.",
+          "answer": "LOPSIDED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AUOHMATLS"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            100,
+            5,
+            2,
+            7,
+            10
+          ],
+          "target": 585
+        },
+        {
+          "type": "teaser",
+          "selection": "REDGROIN",
+          "clue": "I asked for it.",
+          "answer": "ORDERING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "LIEMBAFCN"
+        },
+        {
+          "type": "teaser",
+          "selection": "IDLENUTS",
+          "clue": "How rude.",
+          "answer": "INSULTED"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "IOEVRDRUC"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GROINPOPS"
+        }
+      ]
+    },
+    {
+      "episode": 116,
+      "title": "Episode Cats116",
+      "url": "https://wiki.apterous.org/Episode_Cats116",
+      "summary": "Episode Cats116 , billed as 8 Out of 10 Cats Does Countdown Series 18, Episode 5 in the UK and Series 12, Episode 9 in international markets was a special episode broadcast on 23 August 2019, as part of 8 Out of 10 Cats Does Countdown Series 18 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SDNPOUELM"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            10,
+            7,
+            4,
+            6
+          ],
+          "target": 903
+        },
+        {
+          "type": "teaser",
+          "selection": "REDMOOBS",
+          "clue": "Where the magic happens.",
+          "answer": "BEDROOMS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ASTCOIYMS"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            25,
+            7,
+            10,
+            8,
+            4
+          ],
+          "target": 666
+        },
+        {
+          "type": "teaser",
+          "selection": "ORGYHUTS",
+          "clue": "It's only natural.",
+          "answer": "YOGHURTS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "EUKSIAGDE"
+        },
+        {
+          "type": "teaser",
+          "selection": "SPLATGOO",
+          "clue": "Stop whacking it.",
+          "answer": "GOALPOST"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ANCMORUSG"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "CAMELSHIT"
+        }
+      ]
+    },
+    {
+      "episode": 117,
+      "title": "Episode Cats117",
+      "url": "https://wiki.apterous.org/Episode_Cats117",
+      "summary": "Episode Cats117 , billed as 8 Out of 10 Cats Does Countdown Series 18, Episode 6 in the UK and Series 12, Episode 8 in international markets was a special episode broadcast on 30 August 2019, as part of 8 Out of 10 Cats Does Countdown Series 18 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SAUVTEIRP"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            7,
+            8,
+            3,
+            2
+          ],
+          "target": 285
+        },
+        {
+          "type": "teaser",
+          "selection": "URINEPOT",
+          "clue": "It's bubbling over.",
+          "answer": "ERUPTION"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "QKGGIHFFS"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            10,
+            4,
+            4,
+            3
+          ],
+          "target": 952
+        },
+        {
+          "type": "teaser",
+          "selection": "HOTPENIS",
+          "clue": "It can't be real.",
+          "answer": "PHONIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TCNBEAOLS"
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSEPOET",
+          "clue": "Handle with care.",
+          "answer": "OPERATES"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "AIUWDJHED"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "USEDORGAN"
+        }
+      ]
+    },
+    {
+      "episode": 118,
+      "title": "Episode Cats118",
+      "url": "https://wiki.apterous.org/Episode_Cats118",
+      "summary": "Episode Cats118 , billed as 8 Out of 10 Cats Does Countdown Series 18, Episode 7 in the UK and Series 12, Episode 7 in international markets was a special episode broadcast on 6 September 2019, as part of 8 Out of 10 Cats Does Countdown Series 18 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "GSROILETA"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            8,
+            1,
+            8,
+            2,
+            10
+          ],
+          "target": 719
+        },
+        {
+          "type": "teaser",
+          "selection": "NEEDTUSH",
+          "clue": "Yes please!",
+          "answer": "ENTHUSED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "MUNHTERPI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            1,
+            4,
+            10,
+            9,
+            2
+          ],
+          "target": 832
+        },
+        {
+          "type": "teaser",
+          "selection": "PENISART",
+          "clue": "Good to decorate your house.",
+          "answer": "PAINTERS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TONDWTEAS"
+        },
+        {
+          "type": "teaser",
+          "selection": "BONKLIST",
+          "clue": "This could get messy.",
+          "answer": "INKBLOTS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "CIADRFUHT"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "OILYPANTS"
+        }
+      ]
+    },
+    {
+      "episode": 119,
+      "title": "Episode Cats119",
+      "url": "https://wiki.apterous.org/Episode_Cats119",
+      "summary": "Episode Cats119 , billed as Christmas Special 2019 in the UK and Series 13, Episode 1 in international markets was a special episode broadcast on 23 December 2019, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "EODSAKETS"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            9,
+            1,
+            3,
+            7
+          ],
+          "target": 567
+        },
+        {
+          "type": "teaser",
+          "selection": "ELFSTAIN",
+          "clue": "It's getting bigger.",
+          "answer": "INFLATES"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "YADETVOAH"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            1,
+            5,
+            3,
+            10,
+            9
+          ],
+          "target": 122
+        },
+        {
+          "type": "teaser",
+          "selection": "NUTTYLOG",
+          "clue": "I want more.",
+          "answer": "GLUTTONY"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TEYMOEJRI"
+        },
+        {
+          "type": "teaser",
+          "selection": "ICEORALS",
+          "clue": "I've had too many.",
+          "answer": "CALORIES"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SEPFSARCI"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "INSERTNUT"
+        }
+      ]
+    },
+    {
+      "episode": 120,
+      "title": "Episode Cats120",
+      "url": "https://wiki.apterous.org/Episode_Cats120",
+      "summary": "Episode Cats120 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 1 in the UK and Series 13, Episode 2 in international markets was a special episode broadcast on 9 January 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OTUISRBEN"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            8,
+            7,
+            4,
+            3
+          ],
+          "target": 847
+        },
+        {
+          "type": "teaser",
+          "selection": "HORNLICE",
+          "clue": "This should get rid of them.",
+          "answer": "CHLORINE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "GLAISROEM"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            100,
+            10,
+            9,
+            2,
+            4
+          ],
+          "target": 754
+        },
+        {
+          "type": "teaser",
+          "selection": "DIREFART",
+          "clue": "It's really windy.",
+          "answer": "DRAFTIER"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TARFUMGSO"
+        },
+        {
+          "type": "teaser",
+          "selection": "NEATBONK",
+          "clue": "Everyone loves these.",
+          "answer": "BANKNOTE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "REKAISCDE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "IDIOTANUS"
+        }
+      ]
+    },
+    {
+      "episode": 121,
+      "title": "Episode Cats121",
+      "url": "https://wiki.apterous.org/Episode_Cats121",
+      "summary": "Episode Cats121 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 2 in the UK and Series 13, Episode 3 in international markets was a special episode broadcast on 16 January 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "UAGSTENRO"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            7,
+            4,
+            5,
+            3,
+            8
+          ],
+          "target": 927
+        },
+        {
+          "type": "teaser",
+          "selection": "NICERODS",
+          "clue": "I'll think about it.",
+          "answer": "CONSIDER"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ISZEPASOH"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            7,
+            6,
+            9,
+            8,
+            3
+          ],
+          "target": 987
+        },
+        {
+          "type": "teaser",
+          "selection": "RARESHIT",
+          "clue": "Tackier than normal.",
+          "answer": "TRASHIER"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "CULTALENI"
+        },
+        {
+          "type": "teaser",
+          "selection": "EARPLOPS",
+          "clue": "This happened to my anus.",
+          "answer": "PROLAPSE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SOYAPIMTR"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "NIPSHAPES"
+        }
+      ]
+    },
+    {
+      "episode": 122,
+      "title": "Episode Cats122",
+      "url": "https://wiki.apterous.org/Episode_Cats122",
+      "summary": "Episode Cats122 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 3 in the UK and Series 13, Episode 4 in international markets was a special episode broadcast on 23 January 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "DNRBIASOU"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            10,
+            2,
+            8,
+            5
+          ],
+          "target": 843
+        },
+        {
+          "type": "teaser",
+          "selection": "DRAGNADS",
+          "clue": "Mine are all wrinkled.",
+          "answer": "GRANDADS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "TNCAEKIRA"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            9,
+            2,
+            5,
+            8
+          ],
+          "target": 676
+        },
+        {
+          "type": "teaser",
+          "selection": "GLUMNIPS",
+          "clue": "They're hanging low.",
+          "answer": "SLUMPING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "POTWIRSEF"
+        },
+        {
+          "type": "teaser",
+          "selection": "SNIFFTUG",
+          "clue": "Smells like onions.",
+          "answer": "STUFFING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "UAEORLIGD"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GROINTAPE"
+        }
+      ]
+    },
+    {
+      "episode": 123,
+      "title": "Episode Cats123",
+      "url": "https://wiki.apterous.org/Episode_Cats123",
+      "summary": "Episode Cats123 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 4 in the UK and Series 13, Episode 5 in international markets was a special episode broadcast on 30 January 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "AOELPTSUG"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            4,
+            2,
+            9,
+            5
+          ],
+          "target": 889
+        },
+        {
+          "type": "teaser",
+          "selection": "DONGIDOL",
+          "clue": "I like to draw them.",
+          "answer": "DOODLING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "IEONTMAUR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            100,
+            9,
+            2,
+            1,
+            4
+          ],
+          "target": 933
+        },
+        {
+          "type": "teaser",
+          "selection": "ANTIORAL",
+          "clue": "That's reasonable.",
+          "answer": "RATIONAL"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NFRIOEDAC"
+        },
+        {
+          "type": "teaser",
+          "selection": "SOFTRING",
+          "clue": "Ooh, yummy!",
+          "answer": "FROSTING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "IBASELGSK"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "BAREMILES"
+        }
+      ]
+    },
+    {
+      "episode": 124,
+      "title": "Episode Cats124",
+      "url": "https://wiki.apterous.org/Episode_Cats124",
+      "summary": "Episode Cats124 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 5 in the UK and Series 13, Episode 6 in international markets was a special episode broadcast on 7 February 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ESRATINDA"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            100,
+            7,
+            3,
+            6,
+            1
+          ],
+          "target": 859
+        },
+        {
+          "type": "teaser",
+          "selection": "CLEANROD",
+          "clue": "Mine's full of holes.",
+          "answer": "COLANDER"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "MSTUEHNDI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            8,
+            1,
+            7,
+            7,
+            3
+          ],
+          "target": 561
+        },
+        {
+          "type": "teaser",
+          "selection": "NUDELIST",
+          "clue": "How dare you!",
+          "answer": "INSULTED"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "GAOEBCKNO"
+        },
+        {
+          "type": "teaser",
+          "selection": "SLIPANUT",
+          "clue": "You always need two.",
+          "answer": "NUPTIALS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ALUTASLFE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "MINTYORAL"
+        }
+      ]
+    },
+    {
+      "episode": 125,
+      "title": "Episode Cats125",
+      "url": "https://wiki.apterous.org/Episode_Cats125",
+      "summary": "Episode Cats125 , billed as 8 Out of 10 Cats Does Countdown Series 19, Episode 6 in the UK and Series 13, Episode 7 in international markets was a special episode broadcast on 14 February 2020, as part of 8 Out of 10 Cats Does Countdown Series 19 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "RILSEDXCU"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            5,
+            2,
+            7,
+            6
+          ],
+          "target": 736
+        },
+        {
+          "type": "teaser",
+          "selection": "DONGEXIT",
+          "clue": "I feel better already.",
+          "answer": "DETOXING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ASOHDPSER"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            8,
+            7,
+            5,
+            4,
+            7
+          ],
+          "target": 427
+        },
+        {
+          "type": "teaser",
+          "selection": "NEATPARP",
+          "clue": "There's no hiding it.",
+          "answer": "APPARENT"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "POVARTSMU"
+        },
+        {
+          "type": "teaser",
+          "selection": "LUBERODS",
+          "clue": "These are big and heavy.",
+          "answer": "BOULDERS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ENALIRDNZ"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "BOREDWANK"
+        }
+      ]
+    },
+    {
+      "episode": 126,
+      "title": "Episode Cats126",
+      "url": "https://wiki.apterous.org/Episode_Cats126",
+      "summary": "Episode Cats126 , billed as 8 Out of 10 Cats Does Countdown Series 20, Episode 1 in the UK and Series 13, Episode 11 in international markets was a special episode broadcast on 31 July 2020, as part of 8 Out of 10 Cats Does Countdown Series 20 . It was planned to be the first episode of the next series , but another episode intended for the current season was shown there instead.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SUDRELSIT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            9,
+            6,
+            10,
+            10,
+            6
+          ],
+          "target": 847
+        },
+        {
+          "type": "teaser",
+          "selection": "WANGLILO",
+          "clue": "Can I have a go?",
+          "answer": "ALLOWING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ERSOUWEON"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            7,
+            6,
+            4,
+            5
+          ],
+          "target": 712
+        },
+        {
+          "type": "teaser",
+          "selection": "BITEDUNG",
+          "clue": "There's a first time for everything.",
+          "answer": "DEBUTING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "ADEHOCJRT"
+        },
+        {
+          "type": "teaser",
+          "selection": "ECOFARTS",
+          "clue": "It might get windy.",
+          "answer": "FORECAST"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "VECSANGIB"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "DONGSWEAT"
+        }
+      ]
+    },
+    {
+      "episode": 127,
+      "title": "Episode Cats127",
+      "url": "https://wiki.apterous.org/Episode_Cats127",
+      "summary": "Episode Cats127 , billed as 8 Out of 10 Cats Does Countdown Series 20, Episode 2 in the UK and Series 13, Episode 8 in international markets was a special episode broadcast on 7 August 2020, as part of 8 Out of 10 Cats Does Countdown Series 20 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "TRFIUEDLV"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            2,
+            9,
+            3,
+            4,
+            4
+          ],
+          "target": 705
+        },
+        {
+          "type": "teaser",
+          "selection": "IDRYNUTS",
+          "clue": "It's hard work.",
+          "answer": "INDUSTRY"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "HORANOCYD"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            9,
+            3,
+            4,
+            7
+          ],
+          "target": 652
+        },
+        {
+          "type": "teaser",
+          "selection": "LICKSHIT",
+          "clue": "It will make you smile.",
+          "answer": "TICKLISH"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "EANUCITWT"
+        },
+        {
+          "type": "teaser",
+          "selection": "KNOBSGOO",
+          "clue": "Sounds good to me.",
+          "answer": "SONGBOOK"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "LESRNOXIS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "TOMSBONER"
+        }
+      ]
+    },
+    {
+      "episode": 128,
+      "title": "Episode Cats128",
+      "url": "https://wiki.apterous.org/Episode_Cats128",
+      "summary": "Episode Cats128 , billed as 8 Out of 10 Cats Does Countdown Series 20, Episode 3 in the UK and Series 12, Episode 12 in international markets was a special episode broadcast on 14 August 2020, as part of 8 Out of 10 Cats Does Countdown Series 20 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "BUCTEASDN"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            8,
+            10,
+            4,
+            1
+          ],
+          "target": 271
+        },
+        {
+          "type": "teaser",
+          "selection": "EROTICME",
+          "clue": "It's out of this world.",
+          "answer": "METEORIC"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ISLEOTGNZ"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            8,
+            6,
+            9,
+            7,
+            2
+          ],
+          "target": 682
+        },
+        {
+          "type": "teaser",
+          "selection": "WASHSACK",
+          "clue": "Make sure you've got a firm grip.",
+          "answer": "HACKSAWS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "OCLSEARST"
+        },
+        {
+          "type": "teaser",
+          "selection": "EDGYHORN",
+          "clue": "This could explode.",
+          "answer": "HYDROGEN"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "RITROWEIN"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "EATINGFUR"
+        }
+      ]
+    },
+    {
+      "episode": 129,
+      "title": "Episode Cats129",
+      "url": "https://wiki.apterous.org/Episode_Cats129",
+      "summary": "Episode Cats129 , billed as Christmas Special 2020 in the UK and Series 12, Episode 10 in international markets was a special episode broadcast on 21 December 2020, as part of 8 Out of 10 Cats Does Countdown Series 21 . The episode have been filmed in 2019 before Christmas Special 2019 , nearly two years before its original broadcast as evident by the lack of social distancing or precautions seen in response to COVID-19 . Moreover, this episode was aired in Australia on BBC UKTV long before the UK premiere, on 24 April 2020.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ANGPIDSOT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            25,
+            7,
+            10,
+            3,
+            7
+          ],
+          "target": 834
+        },
+        {
+          "type": "teaser",
+          "selection": "ICEDDONG",
+          "clue": "You can crack it.",
+          "answer": "DECODING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "RUEVITASC"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            5,
+            10,
+            9,
+            7,
+            6
+          ],
+          "target": 754
+        },
+        {
+          "type": "teaser",
+          "selection": "SLYSANTA",
+          "clue": "He's checking it twice.",
+          "answer": "ANALYSTS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "RSOEDLHAU"
+        },
+        {
+          "type": "teaser",
+          "selection": "YULEWIND",
+          "clue": "That's a heavy one.",
+          "answer": "UNWIELDY"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TNKTDOIAS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "MINCEPOLE"
+        }
+      ]
+    },
+    {
+      "episode": 130,
+      "title": "Episode Cats130",
+      "url": "https://wiki.apterous.org/Episode_Cats130",
+      "summary": "Episode Cats130 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 1 in the UK and Series 12, Episode 11 in international markets was a special episode broadcast on 14 January 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 . Disclaimers on the Channel 4 website and the subtitles at the very start of the show clarified that this episode was filmed before the COVID-19 pandemic, meaning it was intended for 8 Out of 10 Cats Does Countdown Series 20 , but rationed across both series.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OEUSLNWAR"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            8,
+            8,
+            7,
+            9
+          ],
+          "target": 690
+        },
+        {
+          "type": "teaser",
+          "selection": "DREROTIC",
+          "clue": "He calls the shots.",
+          "answer": "DIRECTOR"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "IECDANRTI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            9,
+            6,
+            4,
+            10
+          ],
+          "target": 930
+        },
+        {
+          "type": "teaser",
+          "selection": "PIPERASH",
+          "clue": "I gave one to my partner.",
+          "answer": "SAPPHIRE"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "OBVRUENTF"
+        },
+        {
+          "type": "teaser",
+          "selection": "ASSSEEDS",
+          "clue": "Let me have a look.",
+          "answer": "ASSESSED"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "NAPISEOLD"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GETORGASM"
+        }
+      ]
+    },
+    {
+      "episode": 131,
+      "title": "Episode Cats131",
+      "url": "https://wiki.apterous.org/Episode_Cats131",
+      "summary": "Episode Cats131 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 2 in the UK and Series 13, Episode 10 in international markets was a special episode broadcast on 21 January 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 . This episode was filmed before the birth of Rachel Riley 's daughter Maven, to which she spoke about her unborn baby during the Introduction. This suggests that the episode aired out of order and should have been released in 2020.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "WEARINHTG"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            25,
+            2,
+            4,
+            2,
+            9
+          ],
+          "target": 647
+        },
+        {
+          "type": "teaser",
+          "selection": "NUTSBURN",
+          "clue": "There's a cream for that.",
+          "answer": "SUNBURNT"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "NUECTHRNO"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            4,
+            10,
+            2,
+            6,
+            7,
+            2
+          ],
+          "target": 662
+        },
+        {
+          "type": "teaser",
+          "selection": "ORALPOPS",
+          "clue": "She said yes.",
+          "answer": "PROPOSAL"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "LFDPICAEI"
+        },
+        {
+          "type": "teaser",
+          "selection": "DONGDRIP",
+          "clue": "I felt that.",
+          "answer": "PRODDING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SMOUTNPQE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "IDEALSNOG"
+        }
+      ]
+    },
+    {
+      "episode": 132,
+      "title": "Episode Cats132",
+      "url": "https://wiki.apterous.org/Episode_Cats132",
+      "summary": "Episode Cats132 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 3 in the UK and Series 13, Episode 12 in international markets was a special episode broadcast on 28 January 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 . This episode, like the previous one , was filmed before the birth of Rachel Riley 's daughter Maven, suggesting that this episode also aired out of order and should have been released in 2020.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "EGTOUCWAL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            3,
+            8,
+            4,
+            1
+          ],
+          "target": 904
+        },
+        {
+          "type": "teaser",
+          "selection": "TOSSPIPE",
+          "clue": "That was emotional.",
+          "answer": "SOPPIEST"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EPIFENBST"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            8,
+            9,
+            3,
+            2
+          ],
+          "target": 485
+        },
+        {
+          "type": "teaser",
+          "selection": "EATSSHIT",
+          "clue": "Not so fast.",
+          "answer": "HASTIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "ICWOASDGE"
+        },
+        {
+          "type": "teaser",
+          "selection": "SIRIBANG",
+          "clue": "Now we're cooking.",
+          "answer": "BRAISING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "OURTRAONC"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "UNCLETART"
+        }
+      ]
+    },
+    {
+      "episode": 133,
+      "title": "Episode Cats133",
+      "url": "https://wiki.apterous.org/Episode_Cats133",
+      "summary": "Episode Cats133 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 4 in the UK and Series 14, Episode 1 in international markets was a special episode broadcast on 4 February 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 . This was also the first episode of the show to be filmed during the COVID-19 pandemic with many changes in place such as the lack of a studio audience, the installation of a plexiglass in Dictionary Corner, all players taking part in Rounds 3 and 4 and social distancing being enforced where each player sat two metres apart from each other. Because of this last point, each player had their own buzzer instead of one per team for the conundrum.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "BSATRELON"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            3,
+            7,
+            5,
+            9
+          ],
+          "target": 741
+        },
+        {
+          "type": "teaser",
+          "selection": "NUTSHERO",
+          "clue": "I'm heading down.",
+          "answer": "SOUTHERN"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "UIEOWGPST"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            8,
+            4,
+            1,
+            5,
+            3
+          ],
+          "target": 273
+        },
+        {
+          "type": "teaser",
+          "selection": "ANUSTRIM",
+          "clue": "It's all on show.",
+          "answer": "NATURISM"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "DEMREZITA"
+        },
+        {
+          "type": "teaser",
+          "selection": "ORALBITS",
+          "clue": "Just go round and round.",
+          "answer": "ORBITALS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "OLUHIJARS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "BALLSERUM"
+        }
+      ]
+    },
+    {
+      "episode": 134,
+      "title": "Episode Cats134",
+      "url": "https://wiki.apterous.org/Episode_Cats134",
+      "summary": "Episode Cats134 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 5 in the UK and Series 14, Episode 2 in international markets was a special episode broadcast on 11 February 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "WATSROINE"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            75,
+            9,
+            7,
+            2
+          ],
+          "target": 995
+        },
+        {
+          "type": "teaser",
+          "selection": "TURDPISS",
+          "clue": "It's coming whether you like it or not.",
+          "answer": "DISRUPTS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "CUDRAELHI"
+        },
+        {
+          "type": "teaser",
+          "selection": "ASSRELIC",
+          "clue": "Age like a fine wine.",
+          "answer": "CLASSIER"
+        },
+        {
+          "round": 4,
+          "type": "letters",
+          "selection": "MYTOERAON"
+        },
+        {
+          "type": "teaser",
+          "selection": "ABADTOOL",
+          "clue": "Full of seamen.",
+          "answer": "BOATLOAD"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "EGDIULSBO"
+        },
+        {
+          "round": 6,
+          "type": "conundrum",
+          "selection": "PENISTOUR"
+        }
+      ]
+    },
+    {
+      "episode": 135,
+      "title": "Episode Cats135",
+      "url": "https://wiki.apterous.org/Episode_Cats135",
+      "summary": "Episode Cats135 , billed as 8 Out of 10 Cats Does Countdown Series 21, Episode 6 in the UK and Series 14, Episode 3 in international markets was a special episode broadcast on 18 February 2021, as part of 8 Out of 10 Cats Does Countdown Series 21 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "TEDSIWTUR"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            5,
+            3,
+            1,
+            7
+          ],
+          "target": 534
+        },
+        {
+          "type": "teaser",
+          "selection": "NIPPYGAL",
+          "clue": "Put some cream on it.",
+          "answer": "APPLYING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "PERNOMURD"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            1,
+            1,
+            3,
+            4,
+            2
+          ],
+          "target": 560
+        },
+        {
+          "type": "teaser",
+          "selection": "SHITETIP",
+          "clue": "The shorter the better.",
+          "answer": "PITHIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NGEPLITER"
+        },
+        {
+          "type": "teaser",
+          "selection": "ERECTSEX",
+          "clue": "It's seeping out.",
+          "answer": "EXCRETES"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SAHMIERLN"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SEEBRATIT"
+        }
+      ]
+    },
+    {
+      "episode": 136,
+      "title": "Episode Cats136",
+      "url": "https://wiki.apterous.org/Episode_Cats136",
+      "summary": "Episode Cats136 , billed as Christmas Special 2021 in the UK and Series 14, Episode 12 in international markets, was a special episode broadcast on 24 December 2021, as part of 8 Out of 10 Cats Does Countdown Series 22 . This was the first new episode to be broadcast after the death of regular Sean Lock . However, as the episode was recorded back in July, a month prior to his passing, the credits were edited to feature a still picture of him with the caption: In Loving Memory of Comedy Legend Sean Lock (1963-2021) .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OKEDBTORH"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            1,
+            9,
+            8,
+            4,
+            4
+          ],
+          "target": 735
+        },
+        {
+          "type": "teaser",
+          "selection": "HESHARTS",
+          "clue": "Worst Christmas dinner ever.",
+          "answer": "HARSHEST"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "WERTISADX"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            10,
+            7,
+            3,
+            10,
+            1,
+            6
+          ],
+          "target": 350
+        },
+        {
+          "type": "teaser",
+          "selection": "GIFTHORN",
+          "clue": "It looks like it's bubbling.",
+          "answer": "FROTHING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "ROHSADINS"
+        },
+        {
+          "type": "teaser",
+          "selection": "GASSYLEE",
+          "clue": "What a lovely present.",
+          "answer": "EYEGLASS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "MTFOUGSET"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GIFTORNIP"
+        }
+      ]
+    },
+    {
+      "episode": 137,
+      "title": "Episode Cats137",
+      "url": "https://wiki.apterous.org/Episode_Cats137",
+      "summary": "Episode Cats137 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 1 in the UK and Series 14, Episode 9 in international markets, was a special episode broadcast on 7 January 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "RADEMAPIS"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            10,
+            7,
+            10,
+            5
+          ],
+          "target": 908
+        },
+        {
+          "type": "teaser",
+          "selection": "TURDPOSE",
+          "clue": "It's popping out.",
+          "answer": "SPROUTED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ETLAIYBRM"
+        },
+        {
+          "type": "teaser",
+          "selection": "RODINGOB",
+          "clue": "I need to think about that.",
+          "answer": "BROODING"
+        },
+        {
+          "round": 4,
+          "type": "letters",
+          "selection": "UAEPTDHKE"
+        },
+        {
+          "type": "teaser",
+          "selection": "MINGEAIR",
+          "clue": "It'll blow your vision.",
+          "answer": "MIGRAINE"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "IEGTOWRCL"
+        },
+        {
+          "round": 6,
+          "type": "conundrum",
+          "selection": "IFEELCRAP"
+        }
+      ]
+    },
+    {
+      "episode": 138,
+      "title": "Episode Cats138",
+      "url": "https://wiki.apterous.org/Episode_Cats138",
+      "summary": "Episode Cats138 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 2 in the UK and Series 14, Episode 8 in international markets, was a special episode broadcast on 14 January 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SADLIECEN"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            7,
+            6,
+            5,
+            9
+          ],
+          "target": 561
+        },
+        {
+          "type": "teaser",
+          "selection": "TIESWANG",
+          "clue": "It's getting hot in here.",
+          "answer": "SWEATING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "LVIUERSDO"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            7,
+            10,
+            2,
+            5
+          ],
+          "target": 912
+        },
+        {
+          "type": "teaser",
+          "selection": "TOMSHOSE",
+          "clue": "Not a single wrinkle.",
+          "answer": "SMOOTHES"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "BTDOEABEW"
+        },
+        {
+          "type": "teaser",
+          "selection": "IPEGNUNS",
+          "clue": "I pick them up.",
+          "answer": "PENGUINS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "PAIYFESMR"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "DAMPPOOPS"
+        }
+      ]
+    },
+    {
+      "episode": 139,
+      "title": "Episode Cats139",
+      "url": "https://wiki.apterous.org/Episode_Cats139",
+      "summary": "Episode Cats139 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 3 in the UK and Series 14, Episode 6 in international markets, was a special episode broadcast on 21 January 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "GNUAMELTE"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            6,
+            10,
+            9,
+            7
+          ],
+          "target": 362
+        },
+        {
+          "type": "teaser",
+          "selection": "SMUTAREA",
+          "clue": "I don't know what I'm doing.",
+          "answer": "AMATEURS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ODEOMRIAH"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            8,
+            6,
+            2,
+            9
+          ],
+          "target": 100
+        },
+        {
+          "type": "teaser",
+          "selection": "BESTSACK",
+          "clue": "There might be some wrinkles.",
+          "answer": "SETBACKS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "OEEDCGIPF"
+        },
+        {
+          "type": "teaser",
+          "selection": "DICKTIPS",
+          "clue": "Oil me up.",
+          "answer": "DIPSTICK"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SCOATONRT"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "MINGEPARP"
+        }
+      ]
+    },
+    {
+      "episode": 140,
+      "title": "Episode Cats140",
+      "url": "https://wiki.apterous.org/Episode_Cats140",
+      "summary": "Episode Cats140 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 4 in the UK and Series 14, Episode 7 in international markets, was a special episode broadcast on 28 January 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OLSAITPAL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            6,
+            3,
+            1,
+            5,
+            7
+          ],
+          "target": 605
+        },
+        {
+          "type": "teaser",
+          "selection": "PEESTING",
+          "clue": "Try soaking it.",
+          "answer": "STEEPING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "MECINRAWN"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            9,
+            6,
+            2,
+            8,
+            5
+          ],
+          "target": 660
+        },
+        {
+          "type": "teaser",
+          "selection": "POOSTING",
+          "clue": "Try bending over.",
+          "answer": "STOOPING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "IRTGDUOMA"
+        },
+        {
+          "type": "teaser",
+          "selection": "NUTSTING",
+          "clue": "Mine are tiny.",
+          "answer": "STUNTING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "GICPISEFG"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "LEESHARTS"
+        }
+      ]
+    },
+    {
+      "episode": 141,
+      "title": "Episode Cats141",
+      "url": "https://wiki.apterous.org/Episode_Cats141",
+      "summary": "Episode Cats141 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 5 in the UK and Series 14, Episode 5 in international markets, was a special episode broadcast on 4 February 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OYESRGONRALABLFETC"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            3,
+            10,
+            2,
+            1
+          ],
+          "target": 834
+        },
+        {
+          "type": "teaser",
+          "selection": "BOOBLEAK",
+          "clue": "I'm available.",
+          "answer": "BOOKABLE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "JVIOLONFE"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            25,
+            75,
+            50,
+            4,
+            3
+          ],
+          "target": 797
+        },
+        {
+          "type": "teaser",
+          "selection": "CRAPHERE",
+          "clue": "Don't tell me what to do.",
+          "answer": "PREACHER"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TUMCIRAMS"
+        },
+        {
+          "type": "teaser",
+          "selection": "CUTSPERM",
+          "clue": "Lovely with some melted butter.",
+          "answer": "CRUMPETS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ZREIDNEST"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "BASHEDNUT"
+        }
+      ]
+    },
+    {
+      "episode": 142,
+      "title": "Episode Cats142",
+      "url": "https://wiki.apterous.org/Episode_Cats142",
+      "summary": "Episode Cats142 , billed as 8 Out of 10 Cats Does Countdown Series 22, Episode 6 in the UK and Series 14, Episode 4 in international markets, was a special episode broadcast on 11 February 2022, as part of 8 Out of 10 Cats Does Countdown Series 22 . This episode contained the last appearance of regular Sean Lock , who had passed away from lung cancer in mid-August 2021. Similar to the 2021 Christmas Special , the credits were edited posthumously to feature the same still picture from that episode.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "TEPAIGREB"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            5,
+            8,
+            6,
+            9
+          ],
+          "target": 626
+        },
+        {
+          "type": "teaser",
+          "selection": "PRIMTUSH",
+          "clue": "I'm proud of mine.",
+          "answer": "TRIUMPHS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "TOAGEDSRO"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            10,
+            6,
+            8,
+            1,
+            9
+          ],
+          "target": 448
+        },
+        {
+          "type": "teaser",
+          "selection": "IPLANSEX",
+          "clue": "I'll talk you through it.",
+          "answer": "EXPLAINS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "LPGAUEWAD"
+        },
+        {
+          "type": "teaser",
+          "selection": "CARRNUTS",
+          "clue": "Nom, nom, nom, nom, nom, nom, nom, nom, nom.",
+          "answer": "CURRANTS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "LOCSTACEF"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "RUDEDONGS"
+        }
+      ]
+    },
+    {
+      "episode": 143,
+      "title": "Episode Cats143",
+      "url": "https://wiki.apterous.org/Episode_Cats143",
+      "summary": "Episode Cats143 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 1 in the UK and Series 15, Episode 3 in international markets, was a special episode broadcast on 29 July 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 . Starting from this episode, due to the easing of COVID-19 restrictions, the plexiglass which used to separate the guest and the lexicographer no longer exists. However, all celebrities are still socially distanced.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "TILSANCUO"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            6,
+            5,
+            7,
+            2
+          ],
+          "target": 717
+        },
+        {
+          "type": "teaser",
+          "selection": "GNAWNIPS",
+          "clue": "The wider, the better.",
+          "answer": "WINGSPAN"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "RMAEHOIFG"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            25,
+            6,
+            4,
+            10,
+            8
+          ],
+          "target": 885
+        },
+        {
+          "type": "teaser",
+          "selection": "FEEDITIN",
+          "clue": "This will work.",
+          "answer": "DEFINITE"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "WSEPILSUB"
+        },
+        {
+          "type": "teaser",
+          "selection": "RICOSHAT",
+          "clue": "It's on fire.",
+          "answer": "CHARIOTS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TOXETBMEC"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "LUBEDNERD"
+        }
+      ]
+    },
+    {
+      "episode": 144,
+      "title": "Episode Cats144",
+      "url": "https://wiki.apterous.org/Episode_Cats144",
+      "summary": "Episode Cats144 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 2 in the UK and Series 15, Episode 2 in international markets, was a special episode broadcast on 5 August 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ELOATRKTE"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            4,
+            4,
+            8,
+            2
+          ],
+          "target": 727
+        },
+        {
+          "type": "teaser",
+          "selection": "GIANTNIP",
+          "clue": "Put that on display.",
+          "answer": "PAINTING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AIEURSPWC"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            8,
+            7,
+            1,
+            3
+          ],
+          "target": 998
+        },
+        {
+          "type": "teaser",
+          "selection": "ADIMRING",
+          "clue": "I can't stop looking at it.",
+          "answer": "ADMIRING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TIMALINEB"
+        },
+        {
+          "type": "teaser",
+          "selection": "OOHAWMRS",
+          "clue": "Give it a good clean.",
+          "answer": "WASHROOM"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TLHTNAEIU"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GONADUSER"
+        }
+      ]
+    },
+    {
+      "episode": 145,
+      "title": "Episode Cats145",
+      "url": "https://wiki.apterous.org/Episode_Cats145",
+      "summary": "Episode Cats145 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 3 in the UK and Series 14, Episode 11 in international markets, was a special episode broadcast on 12 August 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "BWIATAERM"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            100,
+            75,
+            25,
+            2,
+            9
+          ],
+          "target": 327
+        },
+        {
+          "type": "teaser",
+          "selection": "ITSMRPOO",
+          "clue": "Are you sure?",
+          "answer": "IMPOSTOR"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ANDOGMREG"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            5,
+            3,
+            4,
+            9,
+            5
+          ],
+          "target": 885
+        },
+        {
+          "type": "teaser",
+          "selection": "ONESPUNK",
+          "clue": "Holding some back.",
+          "answer": "UNSPOKEN"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "TOALITNAS"
+        },
+        {
+          "type": "teaser",
+          "selection": "TITSROOM",
+          "clue": "Get into gear.",
+          "answer": "MOTORIST"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "QEEWNARDU"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "MOISTNERD"
+        }
+      ]
+    },
+    {
+      "episode": 146,
+      "title": "Episode Cats146",
+      "url": "https://wiki.apterous.org/Episode_Cats146",
+      "summary": "Episode Cats146 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 4 in the UK and Series 14, Episode 10 in international markets, was a special episode broadcast on 19 August 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SEBLEIPUN"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            5,
+            10,
+            8,
+            5
+          ],
+          "target": 844
+        },
+        {
+          "type": "teaser",
+          "selection": "DICKDOSE",
+          "clue": "Hello, sailor.",
+          "answer": "DOCKSIDE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "LRAEHDEOR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            7,
+            5,
+            10,
+            8,
+            10
+          ],
+          "target": 958
+        },
+        {
+          "type": "teaser",
+          "selection": "EATSSHIT",
+          "clue": "I don't believe it.",
+          "answer": "ATHEISTS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "SAGTOAPSO"
+        },
+        {
+          "type": "teaser",
+          "selection": "HELDSACK",
+          "clue": "Ooh, that's a bit tight.",
+          "answer": "SHACKLED"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TCIERHUST"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "WEALLFART"
+        }
+      ]
+    },
+    {
+      "episode": 147,
+      "title": "Episode Cats147",
+      "url": "https://wiki.apterous.org/Episode_Cats147",
+      "summary": "Episode Cats147 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 5 in the UK and Series 15, Episode 4 in international markets, was a special episode broadcast on 26 August 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "PATFIMLUN"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            100,
+            6,
+            7,
+            6,
+            8
+          ],
+          "target": 981
+        },
+        {
+          "type": "teaser",
+          "selection": "WIPEDNIP",
+          "clue": "Take a deep breath.",
+          "answer": "WINDPIPE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "MTSOIEACR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            100,
+            2,
+            6,
+            4,
+            10
+          ],
+          "target": 143
+        },
+        {
+          "type": "teaser",
+          "selection": "THECRAPS",
+          "clue": "One more before bed.",
+          "answer": "CHAPTERS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "COWIASHLT"
+        },
+        {
+          "type": "teaser",
+          "selection": "WANKTIRE",
+          "clue": "It's starting to itch.",
+          "answer": "KNITWEAR"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "BESGIBEXG"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "TALLPENIS"
+        }
+      ]
+    },
+    {
+      "episode": 148,
+      "title": "Episode Cats148",
+      "url": "https://wiki.apterous.org/Episode_Cats148",
+      "summary": "Episode Cats148 , billed as 8 Out of 10 Cats Does Countdown Series 23, Episode 6 in the UK and Series 15, Episode 1 in international markets, was a special episode broadcast on 2 September 2022, as part of 8 Out of 10 Cats Does Countdown Series 23 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "MOAOSWSIP"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            5,
+            4,
+            2,
+            1
+          ],
+          "target": 648
+        },
+        {
+          "type": "teaser",
+          "selection": "ORALDIET",
+          "clue": "It suits me well.",
+          "answer": "TAILORED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "FADOITMER"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            100,
+            9,
+            2,
+            1
+          ],
+          "target": 363
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSETWIT",
+          "clue": "It's horrible to look at.",
+          "answer": "WARTIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "DSDLNEUOE"
+        },
+        {
+          "type": "teaser",
+          "selection": "FERALTUG",
+          "clue": "That was lovely, thank you.",
+          "answer": "GRATEFUL"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "CAUDAMGHE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SHITFACED"
+        }
+      ]
+    },
+    {
+      "episode": 149,
+      "title": "Episode Cats149",
+      "url": "https://wiki.apterous.org/Episode_Cats149",
+      "summary": "Episode Cats149 , billed as Christmas Special 2022 in the UK and Series 15, Episode 11 in international markets, was a special episode broadcast on 23 December 2022, as part of 8 Out of 10 Cats Does Countdown Series 24 . This episode saw the removal of all COVID-19 restrictions, with the celebrities and audience no longer required to socially distance and wear masks. However, the additional buzzers for the conundrums were still retained as part of the set.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "LOETWISHT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            6,
+            4,
+            5,
+            8,
+            2
+          ],
+          "target": 204
+        },
+        {
+          "type": "teaser",
+          "selection": "ICEPLOPS",
+          "clue": "Give it a lick.",
+          "answer": "POPSICLE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "JENSRUYNE"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            2,
+            5,
+            3,
+            4
+          ],
+          "target": 385
+        },
+        {
+          "type": "teaser",
+          "selection": "ELFPARPS",
+          "clue": "That wafts.",
+          "answer": "FLAPPERS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "RODMINLUS"
+        },
+        {
+          "type": "teaser",
+          "selection": "PEGSANTA",
+          "clue": "A bit showy.",
+          "answer": "PAGEANTS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ETIMSIRHA"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "TIREDSACK"
+        }
+      ]
+    },
+    {
+      "episode": 150,
+      "title": "Episode Cats150",
+      "url": "https://wiki.apterous.org/Episode_Cats150",
+      "summary": "Episode Cats150 , billed as 8 Out of 10 Cats Does Countdown Series 24, Episode 1 in the UK and Series 15, Episode 7 in international markets, was a special episode broadcast on 6 January 2023, as part of 8 Out of 10 Cats Does Countdown Series 24 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "GSAENRDOL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            25,
+            1,
+            2,
+            8,
+            10
+          ],
+          "target": 996
+        },
+        {
+          "type": "teaser",
+          "selection": "AHIRNIPS",
+          "clue": "Grip it tight.",
+          "answer": "HAIRPINS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ATNSWTGNI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            4,
+            9,
+            8,
+            8,
+            7,
+            5
+          ],
+          "target": 981
+        },
+        {
+          "type": "teaser",
+          "selection": "RUBSAHIR",
+          "clue": "Not a wrinkle in sight.",
+          "answer": "AIRBRUSH"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "HFUSRIETS"
+        },
+        {
+          "type": "teaser",
+          "selection": "AHIRDONG",
+          "clue": "Can't get enough.",
+          "answer": "HOARDING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "POAMLCPUV"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SHAGINBIN"
+        }
+      ]
+    },
+    {
+      "episode": 151,
+      "title": "Episode Cats151",
+      "url": "https://wiki.apterous.org/Episode_Cats151",
+      "summary": "Episode Cats151 , billed as 8 Out of 10 Cats Does Countdown Series 24, Episode 2 in the UK and Series 15, Episode 10 in international markets, was a special episode broadcast on 11 August 2023, as part of 8 Out of 10 Cats Does Countdown Series 24 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SEMIHAPNO"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            6,
+            1,
+            4,
+            2
+          ],
+          "target": 982
+        },
+        {
+          "type": "teaser",
+          "selection": "ITSANOSH",
+          "clue": "Wow, that's amazing.",
+          "answer": "ASTONISH"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "LTIASGRES"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            2,
+            5,
+            9,
+            4
+          ],
+          "target": 532
+        },
+        {
+          "type": "teaser",
+          "selection": "SORTLUBE",
+          "clue": "I've got problems.",
+          "answer": "TROUBLES"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "BOPEGITNL"
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSEICON",
+          "clue": "Picture this.",
+          "answer": "SCENARIO"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "MRINOASTE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "WANGDINER"
+        }
+      ]
+    },
+    {
+      "episode": 152,
+      "title": "Episode Cats152",
+      "url": "https://wiki.apterous.org/Episode_Cats152",
+      "summary": "Episode Cats152 , billed as Christmas Special 2023 in the UK and Series 16, Episode 11 in international markets, was a special episode broadcast on 21 December 2023, as part of 8 Out of 10 Cats Does Countdown Series 25 . This marked the first time since 2019 that a Catsdown episode contained eight rounds and starting with this episode, the mechanical conundrum board has been discontinued, with the round being presented digitally similarly to the daytime version of the show.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "MSAEBTIRL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            2,
+            5,
+            5,
+            8
+          ],
+          "target": 530
+        },
+        {
+          "type": "teaser",
+          "selection": "LAYCLAUS",
+          "clue": "No strings attached.",
+          "answer": "CASUALLY"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "DWTEUHPAI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            100,
+            7,
+            3,
+            2
+          ],
+          "target": 439
+        },
+        {
+          "type": "teaser",
+          "selection": "TARTYELF",
+          "clue": "Looks lovely.",
+          "answer": "FLATTERY"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "VOLEDORNE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "FTAUJIESY"
+        },
+        {
+          "type": "teaser",
+          "selection": "RIMSANTA",
+          "clue": "What a cheeky monkey!",
+          "answer": "TAMARINS"
+        },
+        {
+          "round": 7,
+          "type": "letters",
+          "selection": "AOGIRETNM"
+        },
+        {
+          "round": 8,
+          "type": "conundrum",
+          "selection": "ANGELNUTS"
+        }
+      ]
+    },
+    {
+      "episode": 153,
+      "title": "Episode Cats153",
+      "url": "https://wiki.apterous.org/Episode_Cats153",
+      "summary": "Episode Cats153 , billed as 8 Out of 10 Cats Does Countdown Series 25, Episode 1 in the UK and Series 15, Episode 12 in international markets, was a special episode broadcast on 12 January 2024, as part of 8 Out of 10 Cats Does Countdown Series 25 . This episode was aired out of order as the set contained the truncated table set seen during the COVID-19 pandemic period; the credits also implied the episode was recorded in 2022.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "IATNEAPCK"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            3,
+            9,
+            7,
+            1
+          ],
+          "target": 823
+        },
+        {
+          "type": "teaser",
+          "selection": "STRIPLEE",
+          "clue": "Looks a bit scaly.",
+          "answer": "REPTILES"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "TITINADER"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            25,
+            100,
+            50,
+            5,
+            5
+          ],
+          "target": 877
+        },
+        {
+          "type": "teaser",
+          "selection": "TITCARDS",
+          "clue": "I can't stop looking at them.",
+          "answer": "DISTRACT"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "GDOPUROBE"
+        },
+        {
+          "type": "teaser",
+          "selection": "FINALTUG",
+          "clue": "This isn't working.",
+          "answer": "FAULTING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "AUZSTEBTO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "LETMEDUMP"
+        }
+      ]
+    },
+    {
+      "episode": 154,
+      "title": "Episode Cats154",
+      "url": "https://wiki.apterous.org/Episode_Cats154",
+      "summary": "Episode Cats154 , billed as 8 Out of 10 Cats Does Countdown Series 25, Episode 2 in the UK and Series 16, Episode 6 in international markets, was a special episode broadcast on 19 January 2024, as part of 8 Out of 10 Cats Does Countdown Series 25 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OABPEUHTR"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            25,
+            50,
+            9,
+            10
+          ],
+          "target": 914
+        },
+        {
+          "type": "teaser",
+          "selection": "MEDOCRAP",
+          "clue": "Mine's bigger than yours.",
+          "answer": "COMPARED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AOSKTDIER"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            7,
+            4,
+            10,
+            10
+          ],
+          "target": 938
+        },
+        {
+          "type": "teaser",
+          "selection": "SNOGSTIP",
+          "clue": "Show me the way.",
+          "answer": "SIGNPOST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NAGICNUEF"
+        },
+        {
+          "type": "teaser",
+          "selection": "OWNSDICK",
+          "clue": "Mine's blowing all over the place.",
+          "answer": "WINDSOCK"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "IOIAENLWS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "POOCRATER"
+        }
+      ]
+    },
+    {
+      "episode": 155,
+      "title": "Episode Cats155",
+      "url": "https://wiki.apterous.org/Episode_Cats155",
+      "summary": "Episode Cats155 , billed as 8 Out of 10 Cats Does Countdown Series 25, Episode 3 in the UK and Series 16, Episode 9 in international markets, was a special episode broadcast on 26 January 2024, as part of 8 Out of 10 Cats Does Countdown Series 25 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "TEUSMOJKT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            10,
+            5,
+            9,
+            7,
+            6
+          ],
+          "target": 804
+        },
+        {
+          "type": "teaser",
+          "selection": "BATHEROB",
+          "clue": "Works best if you're naked.",
+          "answer": "BATHROBE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "FERASEPNI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            7,
+            6,
+            9,
+            1,
+            5,
+            2
+          ],
+          "target": 748
+        },
+        {
+          "type": "teaser",
+          "selection": "PURETURD",
+          "clue": "What a mess.",
+          "answer": "RUPTURED"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "GRLAOCFED"
+        },
+        {
+          "type": "teaser",
+          "selection": "HESTRIPS",
+          "clue": "It's a hairy one.",
+          "answer": "HIPSTERS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TYURAEPAS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "WANGRIDER"
+        }
+      ]
+    },
+    {
+      "episode": 156,
+      "title": "Episode Cats156",
+      "url": "https://wiki.apterous.org/Episode_Cats156",
+      "summary": "Episode Cats156 , billed as 8 Out of 10 Cats Does Countdown Series 25, Episode 4 in the UK and Series 16, Episode 5 in international markets, was a special episode broadcast on 2 February 2024, as part of 8 Out of 10 Cats Does Countdown Series 25 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SFGAOUCET"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            5,
+            7,
+            7,
+            5
+          ],
+          "target": 565
+        },
+        {
+          "type": "teaser",
+          "selection": "RODBALLS",
+          "clue": "They're hard as concrete.",
+          "answer": "BOLLARDS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "IEYNTPAOL"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            25,
+            75,
+            5,
+            9
+          ],
+          "target": 229
+        },
+        {
+          "type": "teaser",
+          "selection": "SHITSFAR",
+          "clue": "It's a wet one.",
+          "answer": "STARFISH"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "RLAEMDITE"
+        },
+        {
+          "type": "teaser",
+          "selection": "IBANGROD",
+          "clue": "Everyone jump on.",
+          "answer": "BOARDING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "WSMOUEDXI"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SNOGMAYBE"
+        }
+      ]
+    },
+    {
+      "episode": 157,
+      "title": "Episode Cats157",
+      "url": "https://wiki.apterous.org/Episode_Cats157",
+      "summary": "Episode Cats157 , billed as 8 Out of 10 Cats Does Countdown Series 25, Episode 5 in the UK and Series 16, Episode 2 in international markets, was a special episode broadcast on 9 February 2024, as part of 8 Out of 10 Cats Does Countdown Series 25 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "AESWDPSUO"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            5,
+            5,
+            6,
+            1
+          ],
+          "target": 528
+        },
+        {
+          "type": "teaser",
+          "selection": "WILLYFLU",
+          "clue": "I got it deliberately.",
+          "answer": "WILFULLY"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AOREAHLER"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            4,
+            4,
+            3,
+            1,
+            10
+          ],
+          "target": 191
+        },
+        {
+          "type": "teaser",
+          "selection": "TUNALIPS",
+          "clue": "You may now kiss the bride.",
+          "answer": "NUPTIALS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "SNOUEGDIP"
+        },
+        {
+          "type": "teaser",
+          "selection": "TRYLUBES",
+          "clue": "It's windy down there.",
+          "answer": "BLUSTERY"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "HTCLCEAOO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "CALMSHITE"
+        }
+      ]
+    },
+    {
+      "episode": 158,
+      "title": "Episode Cats158",
+      "url": "https://wiki.apterous.org/Episode_Cats158",
+      "summary": "Episode Cats158 , billed as 8 Out of 10 Cats Does Countdown Series 26, Episode 1 in the UK and Series 16, Episode 3 in international markets, was a special episode broadcast on 19 July 2024, as part of 8 Out of 10 Cats Does Countdown Series 26 . This episode's original air date was likely to have been on 30 June 2023 as it would have been Katherine's birthday (which was mentioned by Jimmy Carr ), with the date falling on a Friday.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "AUATROIPM"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            2,
+            7,
+            9,
+            3
+          ],
+          "target": 514
+        },
+        {
+          "type": "teaser",
+          "selection": "IFHERUBS",
+          "clue": "There'll be sparks.",
+          "answer": "BUSHFIRE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ETAISHANR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            1,
+            8,
+            2,
+            10,
+            3
+          ],
+          "target": 176
+        },
+        {
+          "type": "teaser",
+          "selection": "GOONSHIT",
+          "clue": "Does that feel better?",
+          "answer": "SOOTHING"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "MEIYNGATO"
+        },
+        {
+          "type": "teaser",
+          "selection": "MINGEDIP",
+          "clue": "Get out of the way.",
+          "answer": "IMPEDING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "NSVIURABO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "ISHAGNERD"
+        }
+      ]
+    },
+    {
+      "episode": 159,
+      "title": "Episode Cats159",
+      "url": "https://wiki.apterous.org/Episode_Cats159",
+      "summary": "Episode Cats159 , billed as 8 Out of 10 Cats Does Countdown Series 26, Episode 2 in the UK and Series 15, Episode 9 in international markets, was a special episode broadcast on 26 July 2024, as part of 8 Out of 10 Cats Does Countdown Series 26 . This episode was recorded in 2022 as evident by the truncated desk set from COVID-19 times and premiered on Australian BBC UKTV on 21 February 2024, months before being transmitted in the UK.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "NASTUMDAR"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            7,
+            5,
+            5,
+            6,
+            10
+          ],
+          "target": 634
+        },
+        {
+          "type": "teaser",
+          "selection": "SEMITOUR",
+          "clue": "It's gone all soggy.",
+          "answer": "MOISTURE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "WINRSECAL"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            25,
+            1,
+            4,
+            2,
+            5
+          ],
+          "target": 236
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSENUTS",
+          "clue": "Slowly does it.",
+          "answer": "SAUNTERS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "GONOBAPTO"
+        },
+        {
+          "type": "teaser",
+          "selection": "SHITRUMP",
+          "clue": "Give me a medal.",
+          "answer": "TRIUMPHS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "AGNCOELRS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "GOINGPISS"
+        }
+      ]
+    },
+    {
+      "episode": 160,
+      "title": "Episode Cats160",
+      "url": "https://wiki.apterous.org/Episode_Cats160",
+      "summary": "Episode Cats160 , billed as 8 Out of 10 Cats Does Countdown Series 26, Episode 3 in the UK and Series 16, Episode 8 in international markets, was a special episode broadcast on 2 August 2024, as part of 8 Out of 10 Cats Does Countdown Series 26 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "LVFMIEAEP"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            50,
+            100,
+            3,
+            1
+          ],
+          "target": 289
+        },
+        {
+          "type": "teaser",
+          "selection": "GONADNIT",
+          "clue": "Better to give than to receive.",
+          "answer": "DONATING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "GBNDSOEUA"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            3,
+            7,
+            3,
+            2
+          ],
+          "target": 388
+        },
+        {
+          "type": "teaser",
+          "selection": "INTOALAN",
+          "clue": "Do it for your country.",
+          "answer": "NATIONAL"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NTGNSAEOE"
+        },
+        {
+          "type": "teaser",
+          "selection": "WANKRISE",
+          "clue": "That's a posh one.",
+          "answer": "SWANKIER"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "RLYSDIUAE"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "LIMPGROIN"
+        }
+      ]
+    },
+    {
+      "episode": 161,
+      "title": "Episode Cats161",
+      "url": "https://wiki.apterous.org/Episode_Cats161",
+      "summary": "Episode Cats161 , billed as 8 Out of 10 Cats Does Countdown Series 26, Episode 4 in the UK and Series 15, Episode 5 in international markets, was a special episode broadcast on 9 August 2024, as part of 8 Out of 10 Cats Does Countdown Series 26 . This episode was recorded in 2022 as evident by the truncated desk set from COVID-19 times and premiered on Australian BBC UKTV on 24 January 2024, months before being transmitted in the UK.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "RMCPEOAUD"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            7,
+            3,
+            6,
+            4,
+            9,
+            9
+          ],
+          "target": 295
+        },
+        {
+          "type": "teaser",
+          "selection": "OWNGIRTH",
+          "clue": "You night need two hands.",
+          "answer": "THROWING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "NDATGIOSE"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            1,
+            2,
+            9,
+            1
+          ],
+          "target": 828
+        },
+        {
+          "type": "teaser",
+          "selection": "TAPEARSE",
+          "clue": "They're moving apart.",
+          "answer": "SEPARATE"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "LYUIANERTONGAUHSNI"
+        },
+        {
+          "round": 6,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            8,
+            7,
+            4,
+            2
+          ],
+          "target": 584
+        },
+        {
+          "type": "teaser",
+          "selection": "ACHYLIPS",
+          "clue": "No time for talking.",
+          "answer": "PHYSICAL"
+        },
+        {
+          "round": 7,
+          "type": "letters",
+          "selection": "QADELOGRE"
+        },
+        {
+          "round": 8,
+          "type": "conundrum",
+          "selection": "IDONEDUMP"
+        }
+      ]
+    },
+    {
+      "episode": 162,
+      "title": "Episode Cats162",
+      "url": "https://wiki.apterous.org/Episode_Cats162",
+      "summary": "Episode Cats162 , billed as 8 Out of 10 Cats Does Countdown Series 26, Episode 5 in the UK and Series 15, Episode 8 in international markets, was a special episode broadcast on 16 August 2024, as part of 8 Out of 10 Cats Does Countdown Series 26 . This episode was recorded in 2022 as evident by the truncated desk from COVID-19 times and with Dr Anne-Marie Imafidon as the arithmetician . It premiered on Australian BBC UKTV on 14 February 2024, months before being transmitted in the UK.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "EPSDOAERK"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            100,
+            1,
+            5,
+            2
+          ],
+          "target": 881
+        },
+        {
+          "type": "teaser",
+          "selection": "IHOGNUTS",
+          "clue": "Keep your mouth closed.",
+          "answer": "SHOUTING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "XTOIEQALU"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            1,
+            1,
+            4,
+            9
+          ],
+          "target": 197
+        },
+        {
+          "type": "teaser",
+          "selection": "ASSBLEND",
+          "clue": "Not a hair in sight.",
+          "answer": "BALDNESS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "EINJOMEFB"
+        },
+        {
+          "type": "teaser",
+          "selection": "MOISTPIE",
+          "clue": "Make the most of it.",
+          "answer": "OPTIMISE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "ALCIARTSO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "WEALLPARP"
+        }
+      ]
+    },
+    {
+      "episode": 163,
+      "title": "Episode Cats163",
+      "url": "https://wiki.apterous.org/Episode_Cats163",
+      "summary": "Episode Cats163 , billed as 8 Out of 10 Cats Does Countdown Series 27, Episode 1 in the UK and Series 16, Episode 7 in international markets, was a special episode broadcast on 03 January 2025, as part of 8 Out of 10 Cats Does Countdown Series 27 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "WRGOTKESI"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            8,
+            9,
+            1,
+            7
+          ],
+          "target": 279
+        },
+        {
+          "type": "teaser",
+          "selection": "IDOGALAN",
+          "clue": "Make sure you've got the right angle.",
+          "answer": "DIAGONAL"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "NFNCUEATD"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            7,
+            1,
+            9,
+            2
+          ],
+          "target": 845
+        },
+        {
+          "type": "teaser",
+          "selection": "SARAHNIP",
+          "clue": "Be careful, they bite.",
+          "answer": "PIRANHAS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "HOPIREBOL"
+        },
+        {
+          "type": "teaser",
+          "selection": "GOTSEMEN",
+          "clue": "That's priceless.",
+          "answer": "GEMSTONE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SNAISJREO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "MINGERUST"
+        }
+      ]
+    },
+    {
+      "episode": 164,
+      "title": "Episode Cats164",
+      "url": "https://wiki.apterous.org/Episode_Cats164",
+      "summary": "Episode Cats164 , billed as 8 Out of 10 Cats Does Countdown Series 27, Episode 2 in the UK and Series 16, Episode 4 in international markets, was a special episode broadcast on 10 January 2025, as part of 8 Out of 10 Cats Does Countdown Series 27 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "RVOISNUBS"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            3,
+            3,
+            4,
+            4,
+            6
+          ],
+          "target": 153
+        },
+        {
+          "type": "teaser",
+          "selection": "PENISGEL",
+          "clue": "Lie back and close your eyes.",
+          "answer": "SLEEPING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "MFKAETGUT"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            75,
+            25,
+            4,
+            10,
+            8
+          ],
+          "target": 809
+        },
+        {
+          "type": "teaser",
+          "selection": "SOURBUTT",
+          "clue": "That was strong.",
+          "answer": "OUTBURST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "JAFGEDRUA"
+        },
+        {
+          "type": "teaser",
+          "selection": "SODOIRUB",
+          "clue": "Keep it in the bedroom.",
+          "answer": "BOUDOIRS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SEINLPUDR"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "RINSEWANG"
+        }
+      ]
+    },
+    {
+      "episode": 165,
+      "title": "Episode Cats165",
+      "url": "https://wiki.apterous.org/Episode_Cats165",
+      "summary": "Episode Cats165 , billed as 8 Out of 10 Cats Does Countdown Series 27, Episode 3 in the UK and Series 15, Episode 6 in international markets, was a special episode broadcast on 17 January 2025, as part of 8 Out of 10 Cats Does Countdown Series 27 . This episode was recorded in 2022 as evident by the outro's tune being the same as the intro's one and premiered on Australian/New Zealand BBC UKTV on 31 January 2024, almost a year before being transmitted in the UK.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "INEASREGD"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            100,
+            25,
+            8,
+            4,
+            2
+          ],
+          "target": 432
+        },
+        {
+          "type": "teaser",
+          "selection": "SWINGPEE",
+          "clue": "In one smooth motion.",
+          "answer": "SWEEPING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "TWUISATNL"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            4,
+            3,
+            7,
+            5
+          ],
+          "target": 406
+        },
+        {
+          "type": "teaser",
+          "selection": "SADSHITE",
+          "clue": "Looks a bit suspect.",
+          "answer": "SHADIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "OEHFSOAGN"
+        },
+        {
+          "type": "teaser",
+          "selection": "OOPSCLAP",
+          "clue": "I've got it down the pub.",
+          "answer": "ALCOPOPS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "RITMLUSEP"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "THICKWANG"
+        }
+      ]
+    },
+    {
+      "episode": 166,
+      "title": "Episode Cats166",
+      "url": "https://wiki.apterous.org/Episode_Cats166",
+      "summary": "Episode Cats166 , billed as 8 Out of 10 Cats Does Countdown Series 27, Episode 4 in the UK and Series 16, Episode 12 in international markets, was a special episode broadcast on 24 January 2025, as part of 8 Out of 10 Cats Does Countdown Series 27 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "UONDEIPMT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            10,
+            10,
+            3,
+            2,
+            4,
+            8
+          ],
+          "target": 643
+        },
+        {
+          "type": "teaser",
+          "selection": "TOSSDYER",
+          "clue": "There's nothing left.",
+          "answer": "DESTROYS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "OHNERIVAO"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            100,
+            9,
+            6,
+            4,
+            6
+          ],
+          "target": 544
+        },
+        {
+          "type": "teaser",
+          "selection": "ASSCUTIE",
+          "clue": "It's all gravy.",
+          "answer": "SAUCIEST"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "FSEDIOTAN"
+        },
+        {
+          "type": "teaser",
+          "selection": "BLOWNBIG",
+          "clue": "I'm turning to jelly.",
+          "answer": "WOBBLING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "EIFEYCLGO"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "PENISROTA"
+        }
+      ]
+    },
+    {
+      "episode": 167,
+      "title": "Episode Cats167",
+      "url": "https://wiki.apterous.org/Episode_Cats167",
+      "summary": "Episode Cats167 , billed as 8 Out of 10 Cats Does Countdown Series 27, Episode 5 in the UK and Series 16, Episode 1 in international markets, was a special episode broadcast on 31 January 2025, as part of 8 Out of 10 Cats Does Countdown Series 27 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "IPDEHTOSX"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            8,
+            1,
+            9,
+            7
+          ],
+          "target": 677
+        },
+        {
+          "type": "teaser",
+          "selection": "IWETSACK",
+          "clue": "That was crazy.",
+          "answer": "WACKIEST"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EAPLRENTU"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            5,
+            6,
+            6,
+            2,
+            9
+          ],
+          "target": 736
+        },
+        {
+          "type": "teaser",
+          "selection": "ARATCOCK",
+          "clue": "It's where Jon hangs his hat.",
+          "answer": "COATRACK"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "SINMOZUGE"
+        },
+        {
+          "type": "teaser",
+          "selection": "MINGEBUS",
+          "clue": "How does that work?",
+          "answer": "BEMUSING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "SAEWSRUON"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "NICEARSES"
+        }
+      ]
+    },
+    {
+      "episode": 168,
+      "title": "Episode Cats168",
+      "url": "https://wiki.apterous.org/Episode_Cats168",
+      "summary": "Episode Cats168 , billed as 8 Out of 10 Cats Does Countdown Series 28, Episode 1 in the UK and Series 17, Episode 3 in international markets, was a special episode broadcast on 25 July 2025, as part of 8 Out of 10 Cats Does Countdown Series 28 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "IEUSHMOCS"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            100,
+            3,
+            10,
+            6,
+            1
+          ],
+          "target": 475
+        },
+        {
+          "type": "teaser",
+          "selection": "RINSEBOB",
+          "clue": "Don't look down.",
+          "answer": "SNOBBIER"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EAONTSLEI"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            75,
+            2,
+            8,
+            3,
+            10,
+            4
+          ],
+          "target": 748
+        },
+        {
+          "type": "teaser",
+          "selection": "BOOBLEAK",
+          "clue": "Tom Allen , for example.",
+          "answer": "BOOKABLE"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "BOJANEDOP"
+        },
+        {
+          "type": "teaser",
+          "selection": "BOBSREAR",
+          "clue": "Let's keep it dry.",
+          "answer": "REABSORB"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "GLCAITENU"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "TOMFARTED"
+        }
+      ]
+    },
+    {
+      "episode": 169,
+      "title": "Episode Cats169",
+      "url": "https://wiki.apterous.org/Episode_Cats169",
+      "summary": "Episode Cats169 , billed as 8 Out of 10 Cats Does Countdown Series 28, Episode 2 in the UK and Series 17, Episode 4 in international markets, was a special episode broadcast on 1 August 2025, as part of 8 Out of 10 Cats Does Countdown Series 28 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "OAFEMSKOW"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            25,
+            10,
+            2,
+            8,
+            3,
+            2
+          ],
+          "target": 401
+        },
+        {
+          "type": "teaser",
+          "selection": "RHODWEES",
+          "clue": "Hand me a towel.",
+          "answer": "SHOWERED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AGITASNEP"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            10,
+            8,
+            4,
+            1
+          ],
+          "target": 541
+        },
+        {
+          "type": "teaser",
+          "selection": "WHYISHAG",
+          "clue": "For a fast ride.",
+          "answer": "HIGHWAYS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "URSOATPUD"
+        },
+        {
+          "type": "teaser",
+          "selection": "NOBCREAM",
+          "clue": "Enjoy it with other guys.",
+          "answer": "BROMANCE"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TMATOPEOS"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "ASSREGION"
+        }
+      ]
+    },
+    {
+      "episode": 170,
+      "title": "Episode Cats170",
+      "url": "https://wiki.apterous.org/Episode_Cats170",
+      "summary": "Episode Cats170 , billed as 8 Out of 10 Cats Does Countdown Series 28, Episode 3 in the UK and Series 17, Episode 1 in international markets, was a special episode broadcast on 8 August 2025, as part of 8 Out of 10 Cats Does Countdown Series 28 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "JREONTINE"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            1,
+            5,
+            3,
+            2,
+            10
+          ],
+          "target": 189
+        },
+        {
+          "type": "teaser",
+          "selection": "OLDGROIN",
+          "clue": "It's a bit leaky.",
+          "answer": "DROOLING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "SPAGTOBAR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            10,
+            3,
+            6,
+            7,
+            2
+          ],
+          "target": 213
+        },
+        {
+          "type": "teaser",
+          "selection": "MEDOCRAP",
+          "clue": "Mine's bigger than yours.",
+          "answer": "COMPARED"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "LUESNIRAD"
+        },
+        {
+          "type": "teaser",
+          "selection": "RINGALEX",
+          "clue": "For a good time.",
+          "answer": "RELAXING"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "XOECTNURL"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "NICERSHAG"
+        }
+      ]
+    },
+    {
+      "episode": 171,
+      "title": "Episode Cats171",
+      "url": "https://wiki.apterous.org/Episode_Cats171",
+      "summary": "Episode Cats171 , billed as 8 Out of 10 Cats Does Countdown Series 28, Episode 4 in the UK and Series 17, Episode 2 in international markets, was a special episode broadcast on 15 August 2025, as part of 8 Out of 10 Cats Does Countdown Series 28 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "WHASOMUTL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            5,
+            10,
+            6,
+            4,
+            1
+          ],
+          "target": 283
+        },
+        {
+          "type": "teaser",
+          "selection": "SOFTPHIL",
+          "clue": "Keep your hands where I can see them.",
+          "answer": "SHOPLIFT"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "NERIFGERL"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            75,
+            2,
+            3,
+            8,
+            4
+          ],
+          "target": 336
+        },
+        {
+          "type": "teaser",
+          "selection": "ALOTITTY",
+          "clue": "It's everything to me.",
+          "answer": "TOTALITY"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "KAONAUSLT"
+        },
+        {
+          "type": "teaser",
+          "selection": "NERDTUSH",
+          "clue": "I hear it rumbling.",
+          "answer": "THUNDERS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "CLOMTDECI"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "LIKESWANG"
+        }
+      ]
+    },
+    {
+      "episode": 172,
+      "title": "Episode Cats172",
+      "url": "https://wiki.apterous.org/Episode_Cats172",
+      "summary": "Episode Cats172 , billed as 8 Out of 10 Cats Does Countdown Series 28, Episode 5 in the UK and Series 16, Episode 10 in international markets, was a special episode broadcast on 22 August 2025, as part of 8 Out of 10 Cats Does Countdown Series 28 . Notably, this episode was recorded in 2023, a year prior to Jon Richardson and Lucy Beaumont 's divorce. Yet, the mentions about them being a couple and the foreshadowing of Jon being single were not edited out.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "MIGREANOS"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            7,
+            10,
+            4,
+            9,
+            4
+          ],
+          "target": 153
+        },
+        {
+          "type": "teaser",
+          "selection": "ADORETUG",
+          "clue": "I've gone red in the face.",
+          "answer": "OUTRAGED"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EUDLTOIEH"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            25,
+            75,
+            50,
+            3,
+            4
+          ],
+          "target": 242
+        },
+        {
+          "type": "teaser",
+          "selection": "IBAREASS",
+          "clue": "Get ready for takeoff.",
+          "answer": "AIRBASES"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NOEIDVRUN"
+        },
+        {
+          "type": "teaser",
+          "selection": "LICKSTIP",
+          "clue": "It's gone all red.",
+          "answer": "LIPSTICK"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "PAGEDUILM"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "DEEPLOVER"
+        }
+      ]
+    },
+    {
+      "episode": 173,
+      "title": "Episode Cats173",
+      "url": "https://wiki.apterous.org/Episode_Cats173",
+      "summary": "Episode Cats173 , billed as Christmas Special 2025 in the UK and Series 17, Episode 7 in international markets, was a special episode broadcast on 24 December 2025, as part of 8 Out of 10 Cats Does Countdown Series 29 . This episode marked the first time that no announcer introduced the celebrities (the host Jimmy Carr instead was the one that did so before the titles rolled, with them walking up on stage) as well as Rob Beckett assuming his role as the permanent Team Captain opposite of Jon Richardson , taking over Sean Lock more than four years after his death. Additionally, this also marked the first time the show officially used the ODP instead of the OED3 as references for the Letters rounds.",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ROENCUAOT"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            4,
+            5,
+            3,
+            3
+          ],
+          "target": 667
+        },
+        {
+          "type": "teaser",
+          "selection": "IRUBSNOW",
+          "clue": "The thicker the better.",
+          "answer": "UNIBROWS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EUEOSGNSG"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            100,
+            75,
+            3,
+            5,
+            10
+          ],
+          "target": 957
+        },
+        {
+          "type": "teaser",
+          "selection": "ELFSTITS",
+          "clue": "Which way are they leaning?",
+          "answer": "LEFTISTS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "UEIHMWOIC"
+        },
+        {
+          "type": "teaser",
+          "selection": "ELFSEXAD",
+          "clue": "It's very good for you.",
+          "answer": "FLAXSEED"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "AOEUDTBLD"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SORECLAUS"
+        }
+      ]
+    },
+    {
+      "episode": 174,
+      "title": "Episode Cats174",
+      "url": "https://wiki.apterous.org/Episode_Cats174",
+      "summary": "Episode Cats174 , billed as Series 29, Episode 1 in the UK, was a special episode broadcast on 16 January 2026, as part of 8 Out of 10 Cats Does Countdown Series 29 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "ENAGISLUC"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            25,
+            50,
+            10,
+            9,
+            7
+          ],
+          "target": 112
+        },
+        {
+          "type": "teaser",
+          "selection": "WANGSITE",
+          "clue": "Is it hot in here?",
+          "answer": "SWEATING"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "ETSAIOTRE"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            25,
+            50,
+            4,
+            5,
+            6,
+            10
+          ],
+          "target": 223
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSESNOB",
+          "clue": "Thank you my lady.",
+          "answer": "BARONESS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "OMDIATNTE"
+        },
+        {
+          "type": "teaser",
+          "selection": "ROBSPOLE",
+          "clue": "Try and keep a straight face.",
+          "answer": "BLOOPERS"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "NOLUREQKG"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "FREEGROIN"
+        }
+      ]
+    },
+    {
+      "episode": 175,
+      "title": "Episode Cats175",
+      "url": "https://wiki.apterous.org/Episode_Cats175",
+      "summary": "Episode Cats175 , billed as Series 29, Episode 2 in the UK, was a special episode broadcast on 23 January 2026, as part of 8 Out of 10 Cats Does Countdown Series 29 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "SWNPEOAUL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            50,
+            75,
+            3,
+            1,
+            10,
+            10
+          ],
+          "target": 847
+        },
+        {
+          "type": "teaser",
+          "selection": "SENDTITS",
+          "clue": "Open wide.",
+          "answer": "DENTISTS"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "RETIMASET"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            9,
+            10,
+            3,
+            4,
+            7,
+            5
+          ],
+          "target": 185
+        },
+        {
+          "type": "teaser",
+          "selection": "PENISHAT",
+          "clue": "Don't be so dramatic.",
+          "answer": "THESPIAN"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "RGONEICNR"
+        },
+        {
+          "type": "teaser",
+          "selection": "SEENFART",
+          "clue": "Seal that up.",
+          "answer": "FASTENER"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TAUDISMAR"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "NUDECHATS"
+        }
+      ]
+    },
+    {
+      "episode": 176,
+      "title": "Episode Cats176",
+      "url": "https://wiki.apterous.org/Episode_Cats176",
+      "summary": "Episode Cats176 , billed as Series 29, Episode 3 in the UK, was a special episode broadcast on 30 January 2026, as part of 8 Out of 10 Cats Does Countdown Series 29 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "MCPAEOTIL"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            75,
+            6,
+            2,
+            9
+          ],
+          "target": 359
+        },
+        {
+          "type": "teaser",
+          "selection": "MEATBELL",
+          "clue": "Nom nom nom nom nom nom nom.",
+          "answer": "MELTABLE"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "EGMSIETYR"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            50,
+            25,
+            75,
+            2,
+            7,
+            10
+          ],
+          "target": 192
+        },
+        {
+          "type": "teaser",
+          "selection": "OILEDNUT",
+          "clue": "You can see the shape of it.",
+          "answer": "OUTLINED"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "NOEAISNEW"
+        },
+        {
+          "type": "teaser",
+          "selection": "IDNOSHME",
+          "clue": "Anything for a good time.",
+          "answer": "HEDONISM"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "TAFSELADI"
+        },
+        {
+          "round": 7,
+          "type": "conundrum",
+          "selection": "SICKPENIS"
+        }
+      ]
+    },
+    {
+      "episode": 177,
+      "title": "Episode Cats177",
+      "url": "https://wiki.apterous.org/Episode_Cats177",
+      "summary": "Episode Cats177 , billed as Series 30, Episode 1 in the UK, was a special episode broadcast on 31 July 2026, as part of 8 Out of 10 Cats Does Countdown Series 30 .",
+      "rounds": [
+        {
+          "round": 1,
+          "type": "letters",
+          "selection": "IEOOTHTRP"
+        },
+        {
+          "round": 2,
+          "type": "numbers",
+          "numbers": [
+            75,
+            50,
+            1,
+            5,
+            8,
+            1
+          ],
+          "target": 845
+        },
+        {
+          "type": "teaser",
+          "selection": "SEEMATIT",
+          "clue": "Not for vegans.",
+          "answer": "MEATIEST"
+        },
+        {
+          "round": 3,
+          "type": "letters",
+          "selection": "AAOWSALGD"
+        },
+        {
+          "round": 4,
+          "type": "numbers",
+          "numbers": [
+            100,
+            50,
+            7,
+            1,
+            5,
+            4
+          ],
+          "target": 869
+        },
+        {
+          "type": "teaser",
+          "selection": "TOSSRIOT",
+          "clue": "Nanna does it best.",
+          "answer": "RISOTTOS"
+        },
+        {
+          "round": 5,
+          "type": "letters",
+          "selection": "VACOSELEM"
+        },
+        {
+          "round": 6,
+          "type": "letters",
+          "selection": "KIDPEECTO"
+        },
+        {
+          "type": "teaser",
+          "selection": "ARSEWINS",
+          "clue": "Be careful.",
+          "answer": "WARINESS"
+        },
+        {
+          "round": 7,
+          "type": "letters",
+          "selection": "OIMSEEDBE"
+        },
+        {
+          "round": 8,
+          "type": "conundrum",
+          "selection": "ATIREDTUG"
+        }
+      ]
+    }
+  ]
+}
