@@ -275,7 +275,7 @@ async function grade(r, g) {
 function render() {
     const r = rounds[cur],
         s = r.s;
-    $('chips').innerHTML = rounds.map((x, i) => `<button class="chip${i==cur?' on':''}${x.s.done?' done':''}" data-i="${i}">${x.id}${x.s.done?' · '+x.s.pts:''}</button>`).join('');
+    $('chips').innerHTML = rounds.map((x, i) => `<button class="chip${i==cur?' on':''}${x.s.done?' done':''}" data-i="${i}">${x.id}${x.s.done?'<br>'+x.s.pts:''}</button>`).join('');
     const tot = rounds.reduce((a, x) => a + x.s.pts, 0);
     $('score').textContent = `Score ${tot}` + (meta.Max ? ` / ${meta.Max}` : '');
     $('meta').textContent = [meta.Date, meta.Guest].filter(Boolean).join(' · ');
